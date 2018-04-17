@@ -15,6 +15,9 @@
  */
 package com.apress.batch.chapter9.configuration;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import com.apress.batch.chapter9.domain.Customer;
 
 import org.springframework.batch.core.Job;
@@ -23,27 +26,26 @@ import org.springframework.batch.core.configuration.annotation.JobBuilderFactory
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.item.file.FlatFileItemReader;
-import org.springframework.batch.item.file.FlatFileItemWriter;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
-import org.springframework.batch.item.file.builder.FlatFileItemWriterBuilder;
-import org.springframework.batch.item.file.transform.BeanWrapperFieldExtractor;
-import org.springframework.batch.item.file.transform.DelimitedLineAggregator;
+import org.springframework.batch.item.xml.StaxEventItemWriter;
+import org.springframework.batch.item.xml.builder.StaxEventItemWriterBuilder;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.Resource;
+import org.springframework.oxm.xstream.XStreamMarshaller;
 
 /**
  * @author Michael Minella
  */
 @Configuration
-public class DelimitedFileJob {
+public class XmlFileJob {
 
 	private JobBuilderFactory jobBuilderFactory;
 
 	private StepBuilderFactory stepBuilderFactory;
 
-	public DelimitedFileJob(JobBuilderFactory jobBuilderFactory,
+	public XmlFileJob(JobBuilderFactory jobBuilderFactory,
 			StepBuilderFactory stepBuilderFactory) {
 
 		this.jobBuilderFactory = jobBuilderFactory;
@@ -72,41 +74,39 @@ public class DelimitedFileJob {
 
 	@Bean
 	@StepScope
-	public FlatFileItemWriter<Customer> delimitedCustomerItemWriter(
-			@Value("#{jobParameters['outputFile']}") Resource outputFile) {
+	public StaxEventItemWriter<Customer> xmlCustomerWriter(
+			@Value("#{jobParameters['outputFile']}") Resource outputFile) throws Exception {
 
-		BeanWrapperFieldExtractor<Customer> fieldExtractor = new BeanWrapperFieldExtractor<>();
+		Map<String, Class> aliases = new HashMap<>();
+		aliases.put("customer", Customer.class);
 
-		fieldExtractor.setNames(new String[] {"zip", "state", "city", "address", "lastName", "firstName"});
+		XStreamMarshaller marshaller = new XStreamMarshaller();
 
-		fieldExtractor.afterPropertiesSet();
+		marshaller.setAliases(aliases);
 
-		DelimitedLineAggregator<Customer> lineAggregator = new DelimitedLineAggregator<>();
+		marshaller.afterPropertiesSet();
 
-		lineAggregator.setFieldExtractor(fieldExtractor);
-		lineAggregator.setDelimiter(";");
-
-		return new FlatFileItemWriterBuilder<Customer>()
+		return new StaxEventItemWriterBuilder<Customer>()
 				.name("customerItemWriter")
 				.resource(outputFile)
-				.lineAggregator(lineAggregator)
-				.append(true)
+				.marshaller(marshaller)
+				.rootTagName("customers")
 				.build();
 	}
 
 	@Bean
-	public Step delimitedStep() {
-		return this.stepBuilderFactory.get("delimitedStep")
+	public Step xmlFormatStep() throws Exception {
+		return this.stepBuilderFactory.get("xmlFormatStep")
 				.<Customer, Customer>chunk(10)
 				.reader(customerFileReader(null))
-				.writer(delimitedCustomerItemWriter(null))
+				.writer(xmlCustomerWriter(null))
 				.build();
 	}
 
 	@Bean
-	public Job delimitedJob() {
-		return this.jobBuilderFactory.get("delimitedJob")
-				.start(delimitedStep())
+	public Job xmlFormatJob() throws Exception {
+		return this.jobBuilderFactory.get("xmlFormatJob")
+				.start(xmlFormatStep())
 				.build();
 	}
 }
