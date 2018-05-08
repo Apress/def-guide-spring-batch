@@ -16,13 +16,22 @@
 package com.apress.batch.chapter9.domain;
 
 import java.io.Serializable;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 /**
  * @author Michael Minella
  */
+@Entity
+@Table(name = "customer")
 public class Customer implements Serializable {
 	private static final long serialVersionUID = 1L;
 
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 	private String firstName;
 	private String middleInitial;
@@ -31,6 +40,7 @@ public class Customer implements Serializable {
 	private String city;
 	private String state;
 	private String zip;
+	private String email;
 
 	public long getId() {
 		return id;
@@ -94,5 +104,27 @@ public class Customer implements Serializable {
 
 	public void setZip(String zip) {
 		this.zip = zip;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	@Override
+	public String toString() {
+		return "Customer{" +
+				"id=" + id +
+				", firstName='" + firstName + '\'' +
+				", middleInitial='" + middleInitial + '\'' +
+				", lastName='" + lastName + '\'' +
+				", address='" + address + '\'' +
+				", city='" + city + '\'' +
+				", state='" + state + '\'' +
+				", zip='" + zip + '\'' +
+				'}';
 	}
 }
