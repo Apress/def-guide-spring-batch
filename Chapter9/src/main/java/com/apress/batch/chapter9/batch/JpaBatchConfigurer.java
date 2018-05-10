@@ -28,13 +28,12 @@ import org.springframework.batch.core.launch.support.SimpleJobLauncher;
 import org.springframework.batch.core.repository.JobRepository;
 import org.springframework.batch.core.repository.support.JobRepositoryFactoryBean;
 import org.springframework.orm.jpa.JpaTransactionManager;
-import org.springframework.stereotype.Component;
 import org.springframework.transaction.PlatformTransactionManager;
 
 /**
  * @author Michael Minella
  */
-@Component
+//@Component
 public class JpaBatchConfigurer implements BatchConfigurer {
 
 	private DataSource dataSource;
