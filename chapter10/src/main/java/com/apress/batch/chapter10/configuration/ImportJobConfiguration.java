@@ -15,16 +15,14 @@
  */
 package com.apress.batch.chapter10.configuration;
 
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.Map;
 import javax.sql.DataSource;
 
 import com.apress.batch.chapter10.batch.CustomerUpdateClassifier;
-import com.apress.batch.chapter10.domain.CustomerAddressUpdate;
-import com.apress.batch.chapter10.domain.CustomerContactUpdate;
-import com.apress.batch.chapter10.domain.CustomerNameUpdate;
-import com.apress.batch.chapter10.domain.CustomerUpdate;
-import com.apress.batch.chapter10.domain.Transaction;
+import com.apress.batch.chapter10.domain.*;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
@@ -32,7 +30,9 @@ import org.springframework.batch.core.configuration.annotation.JobBuilderFactory
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.item.database.JdbcBatchItemWriter;
+import org.springframework.batch.item.database.JdbcCursorItemReader;
 import org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder;
+import org.springframework.batch.item.database.builder.JdbcCursorItemReaderBuilder;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
@@ -47,6 +47,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.Resource;
+import org.springframework.jdbc.core.RowMapper;
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
 import org.springframework.util.StringUtils;
 
@@ -67,6 +68,7 @@ public class ImportJobConfiguration {
 		return this.jobBuilderFactory.get("importJob")
 				.start(importCustomerUpdates())
 				.next(importTransactions())
+				.next(applyTransactions())
 				.build();
 	}
 
@@ -229,6 +231,78 @@ public class ImportJobConfiguration {
 	}
 
 	@Bean
-	public 
+	public Step applyTransactions() {
+		return this.stepBuilderFactory.get("applyTransactions")
+				.<Transaction, Transaction>chunk(100)
+				.reader(applyTransactionReader(null))
+				.writer(applyTransactionWriter(null))
+				.build();
+	}
 
+	@Bean
+	public JdbcCursorItemReader<Transaction> applyTransactionReader(DataSource dataSource) {
+		return new JdbcCursorItemReaderBuilder<Transaction>()
+				.name("applyTransactionReader")
+				.dataSource(dataSource)
+				.sql("select transaction_id, account_account_id, credit, debit, timestamp from transaction order by timestamp")
+				.rowMapper(new RowMapper<Transaction>() {
+					@Override
+					public Transaction mapRow(ResultSet resultSet, int i) throws SQLException {
+						return new Transaction(resultSet.getLong("transaction_id"),
+								resultSet.getLong("account_account_id"),
+								resultSet.getBigDecimal("credit"),
+								resultSet.getBigDecimal("debit"),
+								resultSet.getTimestamp("timestamp"));
+					}
+				}).build();
+	}
+
+	@Bean
+	public JdbcBatchItemWriter<Transaction> applyTransactionWriter(DataSource dataSource) {
+		return new JdbcBatchItemWriterBuilder<Transaction>()
+				.dataSource(dataSource)
+				.sql("UPDATE ACCOUNT SET BALANCE = BALANCE + :transactionAmount WHERE ACCOUNT_ID = :accountId")
+				.beanMapped()
+				.assertUpdates(false)
+				.build();
+	}
+
+	@Bean
+	public Step generateStatements(ItemProcessor<Statement, Statement> itemProcessor) {
+		return this.stepBuilderFactory.get("generateStatements")
+				.<Statement, Statement>chunk(100)
+				.reader(statementItemReader(null))
+				.processor(itemProcessor)
+				.writer(statementItemWriter())
+				.build();
+	}
+
+	@Bean
+	public JdbcCursorItemReader<Statement> statementItemReader(DataSource dataSource) {
+		return new JdbcCursorItemReaderBuilder<Statement>()
+				.dataSource(dataSource)
+				.sql("SELECT * FROM CUSTOMER")
+				.rowMapper(new RowMapper<Statement>() {
+					@Override
+					public Statement mapRow(ResultSet resultSet, int i) throws SQLException {
+						Customer customer = new Customer(resultSet.getLong("customer_id"),
+								resultSet.getString("first_name"),
+								resultSet.getString("middle_name"),
+								resultSet.getString("last_name"),
+								resultSet.getString("address1"),
+								resultSet.getString("address2"),
+								resultSet.getString("city"),
+								resultSet.getString("state"),
+								resultSet.getString("postal_code"),
+								resultSet.getString("ssn"),
+								resultSet.getString("email_address"),
+								resultSet.getString("home_phone"),
+								resultSet.getString("cell_phone"),
+								resultSet.getString("work_phone"),
+								resultSet.getInt("notification_pref"));
+
+						return new Statement(customer);
+					}
+				}).build();
+	}
 }
