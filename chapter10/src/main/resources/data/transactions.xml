@@ -1,0 +1,7002 @@
+<transactions>
+	<transaction>
+		<transactionId>395359939</transactionId>
+		<accountId>108</accountId>
+		<credit/>
+		<debit>-828</debit>
+		<timestamp>2018-05-25 08:40:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>449193325</transactionId>
+		<accountId>555</accountId>
+		<credit/>
+		<debit>-3256</debit>
+		<timestamp>2018-05-18 15:57:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>324739122</transactionId>
+		<accountId>47</accountId>
+		<credit>238289.51</credit>
+		<debit/>
+		<timestamp>2018-05-23 20:55:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>725326644</transactionId>
+		<accountId>359</accountId>
+		<credit/>
+		<debit>-4849</debit>
+		<timestamp>2018-05-04 01:06:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>606417046</transactionId>
+		<accountId>73</accountId>
+		<credit/>
+		<debit>-4528</debit>
+		<timestamp>2018-05-17 21:39:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>517621738</transactionId>
+		<accountId>256</accountId>
+		<credit/>
+		<debit>-4141</debit>
+		<timestamp>2018-05-02 23:47:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>129243478</transactionId>
+		<accountId>864</accountId>
+		<credit/>
+		<debit>-4458</debit>
+		<timestamp>2018-05-11 20:39:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>834615949</transactionId>
+		<accountId>194</accountId>
+		<credit>16678.53</credit>
+		<debit/>
+		<timestamp>2018-05-28 15:37:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>567251395</transactionId>
+		<accountId>414</accountId>
+		<credit/>
+		<debit>-4402</debit>
+		<timestamp>2018-05-16 02:17:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>366791611</transactionId>
+		<accountId>534</accountId>
+		<credit/>
+		<debit>-4097</debit>
+		<timestamp>2018-05-24 20:44:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>833349449</transactionId>
+		<accountId>833</accountId>
+		<credit/>
+		<debit>-843</debit>
+		<timestamp>2018-05-25 13:03:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>995830665</transactionId>
+		<accountId>940</accountId>
+		<credit/>
+		<debit>-294</debit>
+		<timestamp>2018-05-15 17:10:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>415297918</transactionId>
+		<accountId>6</accountId>
+		<credit/>
+		<debit>-4464</debit>
+		<timestamp>2018-05-24 01:37:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>628102329</transactionId>
+		<accountId>172</accountId>
+		<credit>208217.90</credit>
+		<debit/>
+		<timestamp>2018-05-12 04:45:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>331249986</transactionId>
+		<accountId>925</accountId>
+		<credit/>
+		<debit>-4404</debit>
+		<timestamp>2018-05-28 05:25:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>552492030</transactionId>
+		<accountId>460</accountId>
+		<credit/>
+		<debit>-4419</debit>
+		<timestamp>2018-05-26 18:49:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>330648046</transactionId>
+		<accountId>400</accountId>
+		<credit/>
+		<debit>-1890</debit>
+		<timestamp>2018-05-06 20:45:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>664183368</transactionId>
+		<accountId>893</accountId>
+		<credit/>
+		<debit>-2984</debit>
+		<timestamp>2018-05-20 17:20:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>539981212</transactionId>
+		<accountId>623</accountId>
+		<credit/>
+		<debit>-1623</debit>
+		<timestamp>2018-05-11 08:55:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>453335819</transactionId>
+		<accountId>226</accountId>
+		<credit/>
+		<debit>-126</debit>
+		<timestamp>2018-05-06 15:42:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>319579955</transactionId>
+		<accountId>811</accountId>
+		<credit/>
+		<debit>-3898</debit>
+		<timestamp>2018-05-05 09:58:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>997361982</transactionId>
+		<accountId>883</accountId>
+		<credit/>
+		<debit>-331</debit>
+		<timestamp>2018-05-10 07:50:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>761490553</transactionId>
+		<accountId>82</accountId>
+		<credit/>
+		<debit>-2670</debit>
+		<timestamp>2018-05-16 15:46:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>168032342</transactionId>
+		<accountId>516</accountId>
+		<credit/>
+		<debit>-2238</debit>
+		<timestamp>2018-05-27 01:38:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>128352084</transactionId>
+		<accountId>870</accountId>
+		<credit/>
+		<debit>-2074</debit>
+		<timestamp>2018-05-01 09:41:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>997210939</transactionId>
+		<accountId>744</accountId>
+		<credit/>
+		<debit>-415</debit>
+		<timestamp>2018-05-12 11:23:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>890643295</transactionId>
+		<accountId>637</accountId>
+		<credit>36099.20</credit>
+		<debit/>
+		<timestamp>2018-05-19 04:30:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>344174866</transactionId>
+		<accountId>78</accountId>
+		<credit/>
+		<debit>-4782</debit>
+		<timestamp>2018-05-18 18:31:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>622724510</transactionId>
+		<accountId>902</accountId>
+		<credit/>
+		<debit>-3756</debit>
+		<timestamp>2018-05-17 21:36:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>208040326</transactionId>
+		<accountId>498</accountId>
+		<credit/>
+		<debit>-1252</debit>
+		<timestamp>2018-05-13 21:27:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>310546796</transactionId>
+		<accountId>868</accountId>
+		<credit/>
+		<debit>-3021</debit>
+		<timestamp>2018-05-01 23:14:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>596356736</transactionId>
+		<accountId>762</accountId>
+		<credit>28138.60</credit>
+		<debit/>
+		<timestamp>2018-05-11 00:11:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>762736196</transactionId>
+		<accountId>581</accountId>
+		<credit>130152.79</credit>
+		<debit/>
+		<timestamp>2018-05-16 08:03:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>183424192</transactionId>
+		<accountId>327</accountId>
+		<credit>123551.34</credit>
+		<debit/>
+		<timestamp>2018-05-18 14:50:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>779380519</transactionId>
+		<accountId>296</accountId>
+		<credit>63829.50</credit>
+		<debit/>
+		<timestamp>2018-05-29 12:39:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>608006153</transactionId>
+		<accountId>840</accountId>
+		<credit/>
+		<debit>-4125</debit>
+		<timestamp>2018-05-06 21:03:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>572816325</transactionId>
+		<accountId>36</accountId>
+		<credit/>
+		<debit>-2542</debit>
+		<timestamp>2018-05-25 16:34:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>148011500</transactionId>
+		<accountId>225</accountId>
+		<credit>189080.19</credit>
+		<debit/>
+		<timestamp>2018-05-05 07:48:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>321956801</transactionId>
+		<accountId>851</accountId>
+		<credit/>
+		<debit>-2829</debit>
+		<timestamp>2018-05-20 09:34:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>196856461</transactionId>
+		<accountId>602</accountId>
+		<credit/>
+		<debit>-443</debit>
+		<timestamp>2018-05-04 17:01:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>611031805</transactionId>
+		<accountId>741</accountId>
+		<credit/>
+		<debit>-4717</debit>
+		<timestamp>2018-05-03 00:25:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>544568567</transactionId>
+		<accountId>835</accountId>
+		<credit/>
+		<debit>-4570</debit>
+		<timestamp>2018-05-24 02:56:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>426298864</transactionId>
+		<accountId>372</accountId>
+		<credit/>
+		<debit>-4038</debit>
+		<timestamp>2018-05-22 18:02:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>949424339</transactionId>
+		<accountId>945</accountId>
+		<credit/>
+		<debit>-3362</debit>
+		<timestamp>2018-05-07 11:45:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>308303975</transactionId>
+		<accountId>546</accountId>
+		<credit/>
+		<debit>-1637</debit>
+		<timestamp>2018-05-26 05:18:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>394781749</transactionId>
+		<accountId>842</accountId>
+		<credit>32315.07</credit>
+		<debit/>
+		<timestamp>2018-05-04 07:17:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>678846748</transactionId>
+		<accountId>368</accountId>
+		<credit>131757.72</credit>
+		<debit/>
+		<timestamp>2018-05-09 15:16:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>730586396</transactionId>
+		<accountId>549</accountId>
+		<credit/>
+		<debit>-4822</debit>
+		<timestamp>2018-05-12 22:42:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>561006543</transactionId>
+		<accountId>96</accountId>
+		<credit/>
+		<debit>-3273</debit>
+		<timestamp>2018-05-26 00:30:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>760963241</transactionId>
+		<accountId>89</accountId>
+		<credit/>
+		<debit>-3010</debit>
+		<timestamp>2018-05-11 03:25:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>960985212</transactionId>
+		<accountId>768</accountId>
+		<credit/>
+		<debit>-3925</debit>
+		<timestamp>2018-05-07 18:49:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>681199390</transactionId>
+		<accountId>219</accountId>
+		<credit/>
+		<debit>-4226</debit>
+		<timestamp>2018-05-24 21:58:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>769879032</transactionId>
+		<accountId>389</accountId>
+		<credit/>
+		<debit>-4779</debit>
+		<timestamp>2018-05-25 09:33:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>644232668</transactionId>
+		<accountId>160</accountId>
+		<credit/>
+		<debit>-4166</debit>
+		<timestamp>2018-05-28 02:44:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>626046801</transactionId>
+		<accountId>266</accountId>
+		<credit/>
+		<debit>-3515</debit>
+		<timestamp>2018-05-01 21:49:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>205984530</transactionId>
+		<accountId>283</accountId>
+		<credit/>
+		<debit>-2720</debit>
+		<timestamp>2018-05-29 04:44:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>664962940</transactionId>
+		<accountId>660</accountId>
+		<credit/>
+		<debit>-3288</debit>
+		<timestamp>2018-05-10 12:30:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>634327309</transactionId>
+		<accountId>913</accountId>
+		<credit>180055.00</credit>
+		<debit/>
+		<timestamp>2018-05-01 02:15:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>731388579</transactionId>
+		<accountId>556</accountId>
+		<credit/>
+		<debit>-1541</debit>
+		<timestamp>2018-05-26 18:46:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>459604748</transactionId>
+		<accountId>263</accountId>
+		<credit/>
+		<debit>-48</debit>
+		<timestamp>2018-05-05 16:01:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>810592812</transactionId>
+		<accountId>170</accountId>
+		<credit>11079.55</credit>
+		<debit/>
+		<timestamp>2018-05-03 18:16:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>439582661</transactionId>
+		<accountId>531</accountId>
+		<credit>18616.08</credit>
+		<debit/>
+		<timestamp>2018-05-24 21:04:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>250602351</transactionId>
+		<accountId>755</accountId>
+		<credit>107505.00</credit>
+		<debit/>
+		<timestamp>2018-05-23 15:04:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>257361706</transactionId>
+		<accountId>482</accountId>
+		<credit>237283.85</credit>
+		<debit/>
+		<timestamp>2018-05-09 03:00:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>915677250</transactionId>
+		<accountId>320</accountId>
+		<credit/>
+		<debit>-1442</debit>
+		<timestamp>2018-05-18 18:39:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>102820667</transactionId>
+		<accountId>428</accountId>
+		<credit>222953.49</credit>
+		<debit/>
+		<timestamp>2018-05-23 14:51:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>105066231</transactionId>
+		<accountId>781</accountId>
+		<credit>115190.71</credit>
+		<debit/>
+		<timestamp>2018-05-16 14:55:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>784054583</transactionId>
+		<accountId>53</accountId>
+		<credit/>
+		<debit>-459</debit>
+		<timestamp>2018-05-10 15:26:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>991635053</transactionId>
+		<accountId>843</accountId>
+		<credit/>
+		<debit>-4534</debit>
+		<timestamp>2018-05-23 05:03:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>455713521</transactionId>
+		<accountId>940</accountId>
+		<credit/>
+		<debit>-4201</debit>
+		<timestamp>2018-05-22 00:58:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>145411263</transactionId>
+		<accountId>664</accountId>
+		<credit/>
+		<debit>0</debit>
+		<timestamp>2018-05-18 17:59:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>702473066</transactionId>
+		<accountId>270</accountId>
+		<credit/>
+		<debit>-479</debit>
+		<timestamp>2018-05-17 23:25:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>587292185</transactionId>
+		<accountId>418</accountId>
+		<credit/>
+		<debit>-4047</debit>
+		<timestamp>2018-05-08 10:07:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>105275187</transactionId>
+		<accountId>651</accountId>
+		<credit/>
+		<debit>-3149</debit>
+		<timestamp>2018-05-28 23:57:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>112346797</transactionId>
+		<accountId>626</accountId>
+		<credit/>
+		<debit>-4447</debit>
+		<timestamp>2018-05-13 16:23:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>524954752</transactionId>
+		<accountId>859</accountId>
+		<credit/>
+		<debit>-3687</debit>
+		<timestamp>2018-05-01 14:24:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>710723444</transactionId>
+		<accountId>201</accountId>
+		<credit/>
+		<debit>-1642</debit>
+		<timestamp>2018-05-24 09:00:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>787795130</transactionId>
+		<accountId>253</accountId>
+		<credit/>
+		<debit>-1260</debit>
+		<timestamp>2018-05-03 16:45:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>792563098</transactionId>
+		<accountId>979</accountId>
+		<credit/>
+		<debit>-110</debit>
+		<timestamp>2018-05-07 16:53:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>594122132</transactionId>
+		<accountId>33</accountId>
+		<credit/>
+		<debit>-4553</debit>
+		<timestamp>2018-05-21 03:45:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>261979273</transactionId>
+		<accountId>877</accountId>
+		<credit/>
+		<debit>-4685</debit>
+		<timestamp>2018-05-23 22:20:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>768648317</transactionId>
+		<accountId>556</accountId>
+		<credit/>
+		<debit>-4904</debit>
+		<timestamp>2018-05-12 10:38:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>555209167</transactionId>
+		<accountId>618</accountId>
+		<credit/>
+		<debit>-1984</debit>
+		<timestamp>2018-05-26 14:50:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>108266986</transactionId>
+		<accountId>830</accountId>
+		<credit/>
+		<debit>-486</debit>
+		<timestamp>2018-05-26 10:48:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>732605108</transactionId>
+		<accountId>821</accountId>
+		<credit/>
+		<debit>-938</debit>
+		<timestamp>2018-05-29 03:51:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>700414159</transactionId>
+		<accountId>760</accountId>
+		<credit/>
+		<debit>-1191</debit>
+		<timestamp>2018-05-14 14:52:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>150415872</transactionId>
+		<accountId>367</accountId>
+		<credit/>
+		<debit>-165</debit>
+		<timestamp>2018-05-07 00:33:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>672688761</transactionId>
+		<accountId>791</accountId>
+		<credit/>
+		<debit>-461</debit>
+		<timestamp>2018-05-16 00:38:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>373995164</transactionId>
+		<accountId>535</accountId>
+		<credit/>
+		<debit>-631</debit>
+		<timestamp>2018-05-11 04:46:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>958465129</transactionId>
+		<accountId>656</accountId>
+		<credit>28855.49</credit>
+		<debit/>
+		<timestamp>2018-05-26 10:09:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>460952099</transactionId>
+		<accountId>799</accountId>
+		<credit>84679.31</credit>
+		<debit/>
+		<timestamp>2018-05-04 20:56:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>574066915</transactionId>
+		<accountId>627</accountId>
+		<credit/>
+		<debit>-4154</debit>
+		<timestamp>2018-05-13 18:36:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>114200894</transactionId>
+		<accountId>910</accountId>
+		<credit/>
+		<debit>-1493</debit>
+		<timestamp>2018-05-20 01:50:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>165466482</transactionId>
+		<accountId>90</accountId>
+		<credit/>
+		<debit>-869</debit>
+		<timestamp>2018-05-17 03:38:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>498056581</transactionId>
+		<accountId>456</accountId>
+		<credit/>
+		<debit>-65</debit>
+		<timestamp>2018-05-05 08:31:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>928490684</transactionId>
+		<accountId>155</accountId>
+		<credit/>
+		<debit>-1437</debit>
+		<timestamp>2018-05-17 14:27:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>429440654</transactionId>
+		<accountId>78</accountId>
+		<credit/>
+		<debit>-2467</debit>
+		<timestamp>2018-05-28 22:42:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>192498373</transactionId>
+		<accountId>455</accountId>
+		<credit/>
+		<debit>-1710</debit>
+		<timestamp>2018-05-23 07:45:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>680436636</transactionId>
+		<accountId>271</accountId>
+		<credit/>
+		<debit>-4640</debit>
+		<timestamp>2018-05-09 11:18:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>876236112</transactionId>
+		<accountId>575</accountId>
+		<credit/>
+		<debit>-2984</debit>
+		<timestamp>2018-05-05 03:20:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>233361537</transactionId>
+		<accountId>869</accountId>
+		<credit/>
+		<debit>-776</debit>
+		<timestamp>2018-05-09 04:12:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>527744219</transactionId>
+		<accountId>488</accountId>
+		<credit>206636.99</credit>
+		<debit/>
+		<timestamp>2018-05-26 09:20:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>828744040</transactionId>
+		<accountId>177</accountId>
+		<credit>56673.53</credit>
+		<debit/>
+		<timestamp>2018-05-10 19:29:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>267451966</transactionId>
+		<accountId>948</accountId>
+		<credit/>
+		<debit>-1652</debit>
+		<timestamp>2018-05-28 01:58:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>877592717</transactionId>
+		<accountId>634</accountId>
+		<credit/>
+		<debit>-726</debit>
+		<timestamp>2018-05-21 11:16:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>497125815</transactionId>
+		<accountId>600</accountId>
+		<credit>83498.48</credit>
+		<debit/>
+		<timestamp>2018-05-27 13:48:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>888693287</transactionId>
+		<accountId>824</accountId>
+		<credit/>
+		<debit>-1976</debit>
+		<timestamp>2018-05-13 04:24:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>328396910</transactionId>
+		<accountId>258</accountId>
+		<credit/>
+		<debit>-455</debit>
+		<timestamp>2018-05-13 21:44:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>695418607</transactionId>
+		<accountId>167</accountId>
+		<credit/>
+		<debit>-3295</debit>
+		<timestamp>2018-05-27 05:57:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>144074144</transactionId>
+		<accountId>437</accountId>
+		<credit/>
+		<debit>-4453</debit>
+		<timestamp>2018-05-09 10:36:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>609625083</transactionId>
+		<accountId>208</accountId>
+		<credit>63975.97</credit>
+		<debit/>
+		<timestamp>2018-05-28 08:07:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>106574084</transactionId>
+		<accountId>7</accountId>
+		<credit/>
+		<debit>-920</debit>
+		<timestamp>2018-05-13 09:05:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>612770555</transactionId>
+		<accountId>889</accountId>
+		<credit/>
+		<debit>-3540</debit>
+		<timestamp>2018-05-15 14:18:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>595169414</transactionId>
+		<accountId>800</accountId>
+		<credit/>
+		<debit>-309</debit>
+		<timestamp>2018-05-16 09:54:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>951022951</transactionId>
+		<accountId>152</accountId>
+		<credit/>
+		<debit>-1445</debit>
+		<timestamp>2018-05-06 01:58:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>595050443</transactionId>
+		<accountId>373</accountId>
+		<credit>144210.47</credit>
+		<debit/>
+		<timestamp>2018-05-27 01:13:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>270078937</transactionId>
+		<accountId>574</accountId>
+		<credit/>
+		<debit>-3403</debit>
+		<timestamp>2018-05-08 17:52:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>381253731</transactionId>
+		<accountId>136</accountId>
+		<credit/>
+		<debit>-2837</debit>
+		<timestamp>2018-05-19 19:41:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>690312767</transactionId>
+		<accountId>248</accountId>
+		<credit>228704.92</credit>
+		<debit/>
+		<timestamp>2018-05-26 14:33:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>413543763</transactionId>
+		<accountId>801</accountId>
+		<credit/>
+		<debit>-2022</debit>
+		<timestamp>2018-05-19 02:29:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>241411315</transactionId>
+		<accountId>655</accountId>
+		<credit/>
+		<debit>-2939</debit>
+		<timestamp>2018-05-11 16:11:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>595506593</transactionId>
+		<accountId>422</accountId>
+		<credit>202499.80</credit>
+		<debit/>
+		<timestamp>2018-05-21 04:50:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>572973357</transactionId>
+		<accountId>184</accountId>
+		<credit/>
+		<debit>-2099</debit>
+		<timestamp>2018-05-22 01:23:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>210583575</transactionId>
+		<accountId>201</accountId>
+		<credit/>
+		<debit>-2317</debit>
+		<timestamp>2018-05-24 09:37:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>276780979</transactionId>
+		<accountId>648</accountId>
+		<credit/>
+		<debit>-1146</debit>
+		<timestamp>2018-05-07 16:50:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>815275967</transactionId>
+		<accountId>631</accountId>
+		<credit/>
+		<debit>-1595</debit>
+		<timestamp>2018-05-15 05:01:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>715741198</transactionId>
+		<accountId>393</accountId>
+		<credit/>
+		<debit>-2434</debit>
+		<timestamp>2018-05-27 09:32:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>458546562</transactionId>
+		<accountId>351</accountId>
+		<credit/>
+		<debit>-673</debit>
+		<timestamp>2018-05-05 21:10:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>332769215</transactionId>
+		<accountId>795</accountId>
+		<credit/>
+		<debit>-315</debit>
+		<timestamp>2018-05-26 04:20:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>428312030</transactionId>
+		<accountId>470</accountId>
+		<credit>19815.11</credit>
+		<debit/>
+		<timestamp>2018-05-21 14:49:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>891113320</transactionId>
+		<accountId>973</accountId>
+		<credit/>
+		<debit>-4687</debit>
+		<timestamp>2018-05-03 12:34:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>643928922</transactionId>
+		<accountId>718</accountId>
+		<credit/>
+		<debit>-1649</debit>
+		<timestamp>2018-05-20 01:10:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>355941732</transactionId>
+		<accountId>812</accountId>
+		<credit>249875.17</credit>
+		<debit/>
+		<timestamp>2018-05-02 08:44:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>389699084</transactionId>
+		<accountId>339</accountId>
+		<credit>167716.88</credit>
+		<debit/>
+		<timestamp>2018-05-27 13:29:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>483883336</transactionId>
+		<accountId>604</accountId>
+		<credit/>
+		<debit>-1273</debit>
+		<timestamp>2018-05-03 16:57:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>268152072</transactionId>
+		<accountId>832</accountId>
+		<credit/>
+		<debit>-1027</debit>
+		<timestamp>2018-05-15 19:14:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>174577674</transactionId>
+		<accountId>919</accountId>
+		<credit/>
+		<debit>-955</debit>
+		<timestamp>2018-05-24 14:13:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>252516839</transactionId>
+		<accountId>335</accountId>
+		<credit>53219.11</credit>
+		<debit/>
+		<timestamp>2018-05-20 02:39:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>504651519</transactionId>
+		<accountId>859</accountId>
+		<credit/>
+		<debit>-3549</debit>
+		<timestamp>2018-05-28 00:45:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>241913063</transactionId>
+		<accountId>993</accountId>
+		<credit/>
+		<debit>-1320</debit>
+		<timestamp>2018-05-17 14:54:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>265805992</transactionId>
+		<accountId>577</accountId>
+		<credit/>
+		<debit>-2811</debit>
+		<timestamp>2018-05-02 15:43:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>930023331</transactionId>
+		<accountId>516</accountId>
+		<credit/>
+		<debit>-1886</debit>
+		<timestamp>2018-05-27 23:39:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>179365013</transactionId>
+		<accountId>42</accountId>
+		<credit/>
+		<debit>-913</debit>
+		<timestamp>2018-05-28 17:17:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>686285374</transactionId>
+		<accountId>431</accountId>
+		<credit/>
+		<debit>-959</debit>
+		<timestamp>2018-05-25 03:54:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>351946323</transactionId>
+		<accountId>867</accountId>
+		<credit/>
+		<debit>-2492</debit>
+		<timestamp>2018-05-07 11:17:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>878444660</transactionId>
+		<accountId>455</accountId>
+		<credit/>
+		<debit>-2829</debit>
+		<timestamp>2018-05-19 20:43:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>652502376</transactionId>
+		<accountId>84</accountId>
+		<credit/>
+		<debit>-4632</debit>
+		<timestamp>2018-05-03 22:26:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>785807299</transactionId>
+		<accountId>238</accountId>
+		<credit>194810.38</credit>
+		<debit/>
+		<timestamp>2018-05-13 14:33:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>944899677</transactionId>
+		<accountId>225</accountId>
+		<credit>188775.35</credit>
+		<debit/>
+		<timestamp>2018-05-12 11:37:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>213159044</transactionId>
+		<accountId>646</accountId>
+		<credit/>
+		<debit>-4183</debit>
+		<timestamp>2018-05-16 22:34:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>640506450</transactionId>
+		<accountId>854</accountId>
+		<credit/>
+		<debit>-2735</debit>
+		<timestamp>2018-05-19 02:57:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>212477988</transactionId>
+		<accountId>368</accountId>
+		<credit>15233.23</credit>
+		<debit/>
+		<timestamp>2018-05-23 18:27:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>315835451</transactionId>
+		<accountId>881</accountId>
+		<credit/>
+		<debit>-1814</debit>
+		<timestamp>2018-05-28 16:40:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>592511910</transactionId>
+		<accountId>241</accountId>
+		<credit/>
+		<debit>-1271</debit>
+		<timestamp>2018-05-03 15:16:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>757675680</transactionId>
+		<accountId>500</accountId>
+		<credit/>
+		<debit>-4421</debit>
+		<timestamp>2018-05-02 06:58:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>157205337</transactionId>
+		<accountId>845</accountId>
+		<credit/>
+		<debit>-2244</debit>
+		<timestamp>2018-05-21 06:01:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>562862127</transactionId>
+		<accountId>690</accountId>
+		<credit>246078.39</credit>
+		<debit/>
+		<timestamp>2018-05-06 09:12:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>709510270</transactionId>
+		<accountId>693</accountId>
+		<credit>125440.03</credit>
+		<debit/>
+		<timestamp>2018-05-01 03:39:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>470142816</transactionId>
+		<accountId>596</accountId>
+		<credit/>
+		<debit>0</debit>
+		<timestamp>2018-05-17 04:36:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>429934181</transactionId>
+		<accountId>668</accountId>
+		<credit/>
+		<debit>-2109</debit>
+		<timestamp>2018-05-04 09:18:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>265198495</transactionId>
+		<accountId>992</accountId>
+		<credit/>
+		<debit>-3457</debit>
+		<timestamp>2018-05-20 15:21:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>564130848</transactionId>
+		<accountId>925</accountId>
+		<credit/>
+		<debit>-103</debit>
+		<timestamp>2018-05-11 09:04:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>714162233</transactionId>
+		<accountId>582</accountId>
+		<credit>10018.26</credit>
+		<debit/>
+		<timestamp>2018-05-11 04:26:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>295288795</transactionId>
+		<accountId>584</accountId>
+		<credit/>
+		<debit>-3712</debit>
+		<timestamp>2018-05-07 08:26:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>252411234</transactionId>
+		<accountId>758</accountId>
+		<credit/>
+		<debit>-569</debit>
+		<timestamp>2018-05-06 17:50:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>506633287</transactionId>
+		<accountId>502</accountId>
+		<credit/>
+		<debit>-2642</debit>
+		<timestamp>2018-05-16 18:02:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>800598184</transactionId>
+		<accountId>479</accountId>
+		<credit/>
+		<debit>-948</debit>
+		<timestamp>2018-05-29 15:10:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>704023774</transactionId>
+		<accountId>795</accountId>
+		<credit>146241.95</credit>
+		<debit/>
+		<timestamp>2018-05-03 18:22:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>755539369</transactionId>
+		<accountId>1</accountId>
+		<credit/>
+		<debit>-2499</debit>
+		<timestamp>2018-05-25 21:27:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>432848726</transactionId>
+		<accountId>761</accountId>
+		<credit/>
+		<debit>-3136</debit>
+		<timestamp>2018-05-12 16:39:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>652005545</transactionId>
+		<accountId>466</accountId>
+		<credit/>
+		<debit>-3411</debit>
+		<timestamp>2018-05-09 19:53:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>607290189</transactionId>
+		<accountId>84</accountId>
+		<credit/>
+		<debit>-3268</debit>
+		<timestamp>2018-05-12 02:51:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>983637982</transactionId>
+		<accountId>606</accountId>
+		<credit/>
+		<debit>-2808</debit>
+		<timestamp>2018-05-08 23:42:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>196245665</transactionId>
+		<accountId>549</accountId>
+		<credit/>
+		<debit>-730</debit>
+		<timestamp>2018-05-19 04:55:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>331655081</transactionId>
+		<accountId>37</accountId>
+		<credit/>
+		<debit>-2836</debit>
+		<timestamp>2018-05-29 10:05:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>699165238</transactionId>
+		<accountId>968</accountId>
+		<credit/>
+		<debit>-3677</debit>
+		<timestamp>2018-05-19 05:57:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>495995306</transactionId>
+		<accountId>684</accountId>
+		<credit/>
+		<debit>-1418</debit>
+		<timestamp>2018-05-14 06:54:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>354909917</transactionId>
+		<accountId>578</accountId>
+		<credit/>
+		<debit>-1061</debit>
+		<timestamp>2018-05-14 15:41:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>526454626</transactionId>
+		<accountId>451</accountId>
+		<credit/>
+		<debit>-1715</debit>
+		<timestamp>2018-05-10 07:26:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>252722714</transactionId>
+		<accountId>528</accountId>
+		<credit/>
+		<debit>-107</debit>
+		<timestamp>2018-05-14 06:59:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>105562170</transactionId>
+		<accountId>461</accountId>
+		<credit/>
+		<debit>-4303</debit>
+		<timestamp>2018-05-04 21:36:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>393530055</transactionId>
+		<accountId>958</accountId>
+		<credit/>
+		<debit>-4185</debit>
+		<timestamp>2018-05-22 08:58:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>792164942</transactionId>
+		<accountId>832</accountId>
+		<credit/>
+		<debit>-1891</debit>
+		<timestamp>2018-05-20 17:17:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>291886700</transactionId>
+		<accountId>310</accountId>
+		<credit/>
+		<debit>-1999</debit>
+		<timestamp>2018-05-23 18:01:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>763848405</transactionId>
+		<accountId>114</accountId>
+		<credit/>
+		<debit>-4309</debit>
+		<timestamp>2018-05-05 00:25:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>826013936</transactionId>
+		<accountId>997</accountId>
+		<credit>80266.80</credit>
+		<debit/>
+		<timestamp>2018-05-17 15:59:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>154735072</transactionId>
+		<accountId>604</accountId>
+		<credit/>
+		<debit>-3490</debit>
+		<timestamp>2018-05-14 01:21:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>454863337</transactionId>
+		<accountId>936</accountId>
+		<credit/>
+		<debit>-1337</debit>
+		<timestamp>2018-05-02 06:35:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>874516642</transactionId>
+		<accountId>110</accountId>
+		<credit>227925.22</credit>
+		<debit/>
+		<timestamp>2018-05-04 10:53:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>645653909</transactionId>
+		<accountId>288</accountId>
+		<credit/>
+		<debit>-290</debit>
+		<timestamp>2018-05-07 10:06:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>788990663</transactionId>
+		<accountId>935</accountId>
+		<credit/>
+		<debit>-371</debit>
+		<timestamp>2018-05-20 12:05:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>803068952</transactionId>
+		<accountId>964</accountId>
+		<credit/>
+		<debit>-2188</debit>
+		<timestamp>2018-05-12 10:24:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>148958895</transactionId>
+		<accountId>534</accountId>
+		<credit/>
+		<debit>-1401</debit>
+		<timestamp>2018-05-23 17:24:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>772794118</transactionId>
+		<accountId>637</accountId>
+		<credit/>
+		<debit>-1382</debit>
+		<timestamp>2018-05-07 21:15:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>230918458</transactionId>
+		<accountId>611</accountId>
+		<credit/>
+		<debit>-1834</debit>
+		<timestamp>2018-05-13 15:13:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>381776978</transactionId>
+		<accountId>299</accountId>
+		<credit>115900.30</credit>
+		<debit/>
+		<timestamp>2018-05-05 22:00:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>823924136</transactionId>
+		<accountId>365</accountId>
+		<credit/>
+		<debit>-4910</debit>
+		<timestamp>2018-05-27 15:50:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>197335002</transactionId>
+		<accountId>288</accountId>
+		<credit/>
+		<debit>-781</debit>
+		<timestamp>2018-05-27 20:48:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>806031611</transactionId>
+		<accountId>372</accountId>
+		<credit>3357.37</credit>
+		<debit/>
+		<timestamp>2018-05-21 13:31:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>465067790</transactionId>
+		<accountId>891</accountId>
+		<credit/>
+		<debit>-4999</debit>
+		<timestamp>2018-05-16 22:37:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>733241403</transactionId>
+		<accountId>321</accountId>
+		<credit/>
+		<debit>-3388</debit>
+		<timestamp>2018-05-16 16:58:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>953864447</transactionId>
+		<accountId>142</accountId>
+		<credit/>
+		<debit>-4915</debit>
+		<timestamp>2018-05-09 14:49:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>389234393</transactionId>
+		<accountId>171</accountId>
+		<credit/>
+		<debit>-2665</debit>
+		<timestamp>2018-05-02 11:23:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>801614035</transactionId>
+		<accountId>913</accountId>
+		<credit/>
+		<debit>-748</debit>
+		<timestamp>2018-05-05 13:46:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>514067959</transactionId>
+		<accountId>770</accountId>
+		<credit>226753.49</credit>
+		<debit/>
+		<timestamp>2018-05-06 17:29:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>972036268</transactionId>
+		<accountId>182</accountId>
+		<credit>73840.55</credit>
+		<debit/>
+		<timestamp>2018-05-27 05:15:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>193595778</transactionId>
+		<accountId>19</accountId>
+		<credit>231165.30</credit>
+		<debit/>
+		<timestamp>2018-05-10 09:06:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>410222635</transactionId>
+		<accountId>594</accountId>
+		<credit/>
+		<debit>-3332</debit>
+		<timestamp>2018-05-09 08:35:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>489479484</transactionId>
+		<accountId>298</accountId>
+		<credit/>
+		<debit>-1559</debit>
+		<timestamp>2018-05-19 09:33:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>873839732</transactionId>
+		<accountId>519</accountId>
+		<credit/>
+		<debit>-3653</debit>
+		<timestamp>2018-05-24 04:44:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>905927234</transactionId>
+		<accountId>30</accountId>
+		<credit/>
+		<debit>-3358</debit>
+		<timestamp>2018-05-16 08:02:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>566560505</transactionId>
+		<accountId>154</accountId>
+		<credit>105429.02</credit>
+		<debit/>
+		<timestamp>2018-05-08 11:46:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>859342288</transactionId>
+		<accountId>311</accountId>
+		<credit/>
+		<debit>-2285</debit>
+		<timestamp>2018-05-23 12:12:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>525067514</transactionId>
+		<accountId>148</accountId>
+		<credit/>
+		<debit>-4512</debit>
+		<timestamp>2018-05-21 06:39:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>991051536</transactionId>
+		<accountId>491</accountId>
+		<credit/>
+		<debit>-3332</debit>
+		<timestamp>2018-05-26 23:29:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>450796592</transactionId>
+		<accountId>823</accountId>
+		<credit>60861.55</credit>
+		<debit/>
+		<timestamp>2018-05-29 23:24:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>231033925</transactionId>
+		<accountId>722</accountId>
+		<credit>57787.52</credit>
+		<debit/>
+		<timestamp>2018-05-27 08:16:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>884801095</transactionId>
+		<accountId>335</accountId>
+		<credit/>
+		<debit>-457</debit>
+		<timestamp>2018-05-28 05:38:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>497966314</transactionId>
+		<accountId>514</accountId>
+		<credit>136700.24</credit>
+		<debit/>
+		<timestamp>2018-05-09 11:59:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>534609605</transactionId>
+		<accountId>640</accountId>
+		<credit/>
+		<debit>-4190</debit>
+		<timestamp>2018-05-28 14:34:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>955195115</transactionId>
+		<accountId>616</accountId>
+		<credit>173144.18</credit>
+		<debit/>
+		<timestamp>2018-05-18 05:34:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>216347448</transactionId>
+		<accountId>362</accountId>
+		<credit/>
+		<debit>-2206</debit>
+		<timestamp>2018-05-16 05:22:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>802314534</transactionId>
+		<accountId>478</accountId>
+		<credit>117567.63</credit>
+		<debit/>
+		<timestamp>2018-05-02 23:59:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>301048287</transactionId>
+		<accountId>597</accountId>
+		<credit/>
+		<debit>-1167</debit>
+		<timestamp>2018-05-16 09:02:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>104126471</transactionId>
+		<accountId>2</accountId>
+		<credit/>
+		<debit>-1811</debit>
+		<timestamp>2018-05-20 16:01:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>484635226</transactionId>
+		<accountId>778</accountId>
+		<credit/>
+		<debit>-2493</debit>
+		<timestamp>2018-05-08 21:38:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>318257194</transactionId>
+		<accountId>668</accountId>
+		<credit/>
+		<debit>-862</debit>
+		<timestamp>2018-05-12 16:47:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>966023103</transactionId>
+		<accountId>588</accountId>
+		<credit/>
+		<debit>-1262</debit>
+		<timestamp>2018-05-15 23:33:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>850928588</transactionId>
+		<accountId>8</accountId>
+		<credit>109048.43</credit>
+		<debit/>
+		<timestamp>2018-05-19 16:48:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>163117896</transactionId>
+		<accountId>748</accountId>
+		<credit/>
+		<debit>-488</debit>
+		<timestamp>2018-05-19 01:16:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>256003169</transactionId>
+		<accountId>44</accountId>
+		<credit>95969.30</credit>
+		<debit/>
+		<timestamp>2018-05-20 17:47:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>309009186</transactionId>
+		<accountId>282</accountId>
+		<credit>191090.61</credit>
+		<debit/>
+		<timestamp>2018-05-04 23:09:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>229705557</transactionId>
+		<accountId>362</accountId>
+		<credit/>
+		<debit>-3297</debit>
+		<timestamp>2018-05-13 00:12:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>544233129</transactionId>
+		<accountId>474</accountId>
+		<credit/>
+		<debit>-1551</debit>
+		<timestamp>2018-05-02 05:13:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>228356405</transactionId>
+		<accountId>112</accountId>
+		<credit/>
+		<debit>-3503</debit>
+		<timestamp>2018-05-06 00:51:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>924339812</transactionId>
+		<accountId>207</accountId>
+		<credit/>
+		<debit>-3069</debit>
+		<timestamp>2018-05-20 20:24:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>621412210</transactionId>
+		<accountId>386</accountId>
+		<credit/>
+		<debit>-2667</debit>
+		<timestamp>2018-05-23 20:51:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>863755298</transactionId>
+		<accountId>825</accountId>
+		<credit/>
+		<debit>-2263</debit>
+		<timestamp>2018-05-14 17:42:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>251019218</transactionId>
+		<accountId>625</accountId>
+		<credit/>
+		<debit>-2586</debit>
+		<timestamp>2018-05-12 12:57:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>547625181</transactionId>
+		<accountId>279</accountId>
+		<credit/>
+		<debit>-4138</debit>
+		<timestamp>2018-05-20 19:56:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>793829837</transactionId>
+		<accountId>317</accountId>
+		<credit/>
+		<debit>-470</debit>
+		<timestamp>2018-05-22 14:33:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>529005105</transactionId>
+		<accountId>29</accountId>
+		<credit/>
+		<debit>-4352</debit>
+		<timestamp>2018-05-04 16:00:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>338563432</transactionId>
+		<accountId>955</accountId>
+		<credit>181537.82</credit>
+		<debit/>
+		<timestamp>2018-05-25 12:24:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>742583092</transactionId>
+		<accountId>69</accountId>
+		<credit/>
+		<debit>-4079</debit>
+		<timestamp>2018-05-16 05:39:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>953751309</transactionId>
+		<accountId>554</accountId>
+		<credit>154315.90</credit>
+		<debit/>
+		<timestamp>2018-05-10 02:15:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>784162345</transactionId>
+		<accountId>766</accountId>
+		<credit/>
+		<debit>-1694</debit>
+		<timestamp>2018-05-07 02:31:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>780153490</transactionId>
+		<accountId>836</accountId>
+		<credit/>
+		<debit>-2957</debit>
+		<timestamp>2018-05-23 13:38:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>516706522</transactionId>
+		<accountId>437</accountId>
+		<credit/>
+		<debit>-2154</debit>
+		<timestamp>2018-05-23 21:15:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>991083545</transactionId>
+		<accountId>566</accountId>
+		<credit/>
+		<debit>-4687</debit>
+		<timestamp>2018-05-11 07:19:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>971661429</transactionId>
+		<accountId>497</accountId>
+		<credit/>
+		<debit>-4800</debit>
+		<timestamp>2018-05-21 23:53:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>832431242</transactionId>
+		<accountId>26</accountId>
+		<credit/>
+		<debit>-3406</debit>
+		<timestamp>2018-05-11 15:26:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>269854129</transactionId>
+		<accountId>121</accountId>
+		<credit>57088.16</credit>
+		<debit/>
+		<timestamp>2018-05-16 17:23:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>609544389</transactionId>
+		<accountId>629</accountId>
+		<credit/>
+		<debit>-2313</debit>
+		<timestamp>2018-05-02 15:31:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>362857378</transactionId>
+		<accountId>859</accountId>
+		<credit/>
+		<debit>-3163</debit>
+		<timestamp>2018-05-28 03:13:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>455568995</transactionId>
+		<accountId>915</accountId>
+		<credit/>
+		<debit>-3610</debit>
+		<timestamp>2018-05-17 09:01:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>951574259</transactionId>
+		<accountId>600</accountId>
+		<credit/>
+		<debit>-3292</debit>
+		<timestamp>2018-05-23 10:58:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>484099265</transactionId>
+		<accountId>603</accountId>
+		<credit/>
+		<debit>-4502</debit>
+		<timestamp>2018-05-26 09:58:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>810084616</transactionId>
+		<accountId>816</accountId>
+		<credit/>
+		<debit>-3773</debit>
+		<timestamp>2018-05-23 03:23:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>719100664</transactionId>
+		<accountId>585</accountId>
+		<credit>49263.48</credit>
+		<debit/>
+		<timestamp>2018-05-18 13:12:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>109548074</transactionId>
+		<accountId>228</accountId>
+		<credit/>
+		<debit>-2723</debit>
+		<timestamp>2018-05-14 11:03:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>216207126</transactionId>
+		<accountId>833</accountId>
+		<credit>244415.94</credit>
+		<debit/>
+		<timestamp>2018-05-14 23:33:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>500462052</transactionId>
+		<accountId>659</accountId>
+		<credit>117521.24</credit>
+		<debit/>
+		<timestamp>2018-05-05 01:43:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>909901100</transactionId>
+		<accountId>668</accountId>
+		<credit/>
+		<debit>-1537</debit>
+		<timestamp>2018-05-08 06:13:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>633592577</transactionId>
+		<accountId>856</accountId>
+		<credit/>
+		<debit>-2037</debit>
+		<timestamp>2018-05-12 08:11:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>358912247</transactionId>
+		<accountId>670</accountId>
+		<credit/>
+		<debit>-3554</debit>
+		<timestamp>2018-05-24 04:26:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>731674643</transactionId>
+		<accountId>454</accountId>
+		<credit/>
+		<debit>-487</debit>
+		<timestamp>2018-05-15 10:00:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>471974544</transactionId>
+		<accountId>223</accountId>
+		<credit>181479.13</credit>
+		<debit/>
+		<timestamp>2018-05-16 22:55:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>866673046</transactionId>
+		<accountId>706</accountId>
+		<credit>141849.86</credit>
+		<debit/>
+		<timestamp>2018-05-29 21:24:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>119965282</transactionId>
+		<accountId>596</accountId>
+		<credit/>
+		<debit>-84</debit>
+		<timestamp>2018-05-22 08:23:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>784975999</transactionId>
+		<accountId>664</accountId>
+		<credit/>
+		<debit>-25</debit>
+		<timestamp>2018-05-03 23:28:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>922189429</transactionId>
+		<accountId>768</accountId>
+		<credit/>
+		<debit>-2325</debit>
+		<timestamp>2018-05-08 19:35:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>953029155</transactionId>
+		<accountId>734</accountId>
+		<credit>133291.98</credit>
+		<debit/>
+		<timestamp>2018-05-20 19:11:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>911655089</transactionId>
+		<accountId>541</accountId>
+		<credit/>
+		<debit>-473</debit>
+		<timestamp>2018-05-28 21:56:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>423877982</transactionId>
+		<accountId>804</accountId>
+		<credit/>
+		<debit>-3554</debit>
+		<timestamp>2018-05-07 00:57:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>227760254</transactionId>
+		<accountId>669</accountId>
+		<credit>56804.89</credit>
+		<debit/>
+		<timestamp>2018-05-11 02:10:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>732543261</transactionId>
+		<accountId>84</accountId>
+		<credit/>
+		<debit>-1728</debit>
+		<timestamp>2018-05-09 06:40:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>116913874</transactionId>
+		<accountId>480</accountId>
+		<credit>149415.95</credit>
+		<debit/>
+		<timestamp>2018-05-11 05:36:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>462844659</transactionId>
+		<accountId>588</accountId>
+		<credit/>
+		<debit>-2175</debit>
+		<timestamp>2018-05-22 16:17:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>318613652</transactionId>
+		<accountId>83</accountId>
+		<credit/>
+		<debit>-2530</debit>
+		<timestamp>2018-05-21 21:04:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>259743176</transactionId>
+		<accountId>538</accountId>
+		<credit>91007.54</credit>
+		<debit/>
+		<timestamp>2018-05-24 03:06:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>259952776</transactionId>
+		<accountId>44</accountId>
+		<credit/>
+		<debit>-491</debit>
+		<timestamp>2018-05-09 12:56:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>694956884</transactionId>
+		<accountId>54</accountId>
+		<credit>181538.34</credit>
+		<debit/>
+		<timestamp>2018-05-28 21:50:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>502089158</transactionId>
+		<accountId>541</accountId>
+		<credit>229174.86</credit>
+		<debit/>
+		<timestamp>2018-05-10 10:57:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>795592666</transactionId>
+		<accountId>255</accountId>
+		<credit/>
+		<debit>-4546</debit>
+		<timestamp>2018-05-08 00:25:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>662844189</transactionId>
+		<accountId>256</accountId>
+		<credit/>
+		<debit>-3613</debit>
+		<timestamp>2018-05-21 15:42:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>510368819</transactionId>
+		<accountId>820</accountId>
+		<credit/>
+		<debit>-4681</debit>
+		<timestamp>2018-05-18 05:03:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>901930390</transactionId>
+		<accountId>259</accountId>
+		<credit/>
+		<debit>-1262</debit>
+		<timestamp>2018-05-03 16:20:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>304245776</transactionId>
+		<accountId>930</accountId>
+		<credit/>
+		<debit>-4767</debit>
+		<timestamp>2018-05-05 18:38:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>193158923</transactionId>
+		<accountId>983</accountId>
+		<credit>165559.67</credit>
+		<debit/>
+		<timestamp>2018-05-10 07:20:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>383532614</transactionId>
+		<accountId>59</accountId>
+		<credit/>
+		<debit>-605</debit>
+		<timestamp>2018-05-10 18:05:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>697018717</transactionId>
+		<accountId>44</accountId>
+		<credit>6610.79</credit>
+		<debit/>
+		<timestamp>2018-05-26 05:03:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>816239574</transactionId>
+		<accountId>630</accountId>
+		<credit/>
+		<debit>-1680</debit>
+		<timestamp>2018-05-08 01:22:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>516613321</transactionId>
+		<accountId>194</accountId>
+		<credit/>
+		<debit>-3097</debit>
+		<timestamp>2018-05-11 01:14:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>377075973</transactionId>
+		<accountId>79</accountId>
+		<credit/>
+		<debit>-4106</debit>
+		<timestamp>2018-05-23 19:24:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>217443667</transactionId>
+		<accountId>952</accountId>
+		<credit/>
+		<debit>-4709</debit>
+		<timestamp>2018-05-03 14:27:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>841122676</transactionId>
+		<accountId>126</accountId>
+		<credit/>
+		<debit>-2084</debit>
+		<timestamp>2018-05-29 22:28:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>978496716</transactionId>
+		<accountId>287</accountId>
+		<credit/>
+		<debit>-1870</debit>
+		<timestamp>2018-05-23 14:49:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>844271326</transactionId>
+		<accountId>381</accountId>
+		<credit/>
+		<debit>-1900</debit>
+		<timestamp>2018-05-01 08:04:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>129476841</transactionId>
+		<accountId>281</accountId>
+		<credit/>
+		<debit>-2564</debit>
+		<timestamp>2018-05-19 04:50:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>618593458</transactionId>
+		<accountId>504</accountId>
+		<credit/>
+		<debit>-1563</debit>
+		<timestamp>2018-05-17 07:50:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>915279209</transactionId>
+		<accountId>857</accountId>
+		<credit/>
+		<debit>-2197</debit>
+		<timestamp>2018-05-10 23:59:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>461079933</transactionId>
+		<accountId>772</accountId>
+		<credit/>
+		<debit>-943</debit>
+		<timestamp>2018-05-06 05:22:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>698159026</transactionId>
+		<accountId>897</accountId>
+		<credit/>
+		<debit>-3270</debit>
+		<timestamp>2018-05-11 05:35:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>765433600</transactionId>
+		<accountId>784</accountId>
+		<credit/>
+		<debit>-2607</debit>
+		<timestamp>2018-05-20 01:40:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>739065984</transactionId>
+		<accountId>566</accountId>
+		<credit/>
+		<debit>-1423</debit>
+		<timestamp>2018-05-17 13:49:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>291099822</transactionId>
+		<accountId>487</accountId>
+		<credit>227656.41</credit>
+		<debit/>
+		<timestamp>2018-05-25 14:43:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>294291013</transactionId>
+		<accountId>607</accountId>
+		<credit/>
+		<debit>-1218</debit>
+		<timestamp>2018-05-16 00:09:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>495781524</transactionId>
+		<accountId>624</accountId>
+		<credit/>
+		<debit>-1293</debit>
+		<timestamp>2018-05-12 15:32:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>854033938</transactionId>
+		<accountId>67</accountId>
+		<credit/>
+		<debit>-3122</debit>
+		<timestamp>2018-05-01 22:46:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>155161007</transactionId>
+		<accountId>445</accountId>
+		<credit/>
+		<debit>-1568</debit>
+		<timestamp>2018-05-13 10:05:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>782115109</transactionId>
+		<accountId>393</accountId>
+		<credit/>
+		<debit>-4557</debit>
+		<timestamp>2018-05-08 16:48:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>480734659</transactionId>
+		<accountId>578</accountId>
+		<credit/>
+		<debit>-4917</debit>
+		<timestamp>2018-05-25 05:04:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>171064196</transactionId>
+		<accountId>19</accountId>
+		<credit>194289.63</credit>
+		<debit/>
+		<timestamp>2018-05-10 11:40:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>200252475</transactionId>
+		<accountId>632</accountId>
+		<credit/>
+		<debit>-48</debit>
+		<timestamp>2018-05-20 03:12:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>823830922</transactionId>
+		<accountId>584</accountId>
+		<credit>165675.54</credit>
+		<debit/>
+		<timestamp>2018-05-05 09:12:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>687641627</transactionId>
+		<accountId>350</accountId>
+		<credit/>
+		<debit>-3033</debit>
+		<timestamp>2018-05-25 01:10:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>712176675</transactionId>
+		<accountId>48</accountId>
+		<credit>135513.93</credit>
+		<debit/>
+		<timestamp>2018-05-17 16:59:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>339269913</transactionId>
+		<accountId>175</accountId>
+		<credit/>
+		<debit>-3649</debit>
+		<timestamp>2018-05-03 22:08:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>236459645</transactionId>
+		<accountId>844</accountId>
+		<credit/>
+		<debit>-650</debit>
+		<timestamp>2018-05-06 11:13:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>928794189</transactionId>
+		<accountId>917</accountId>
+		<credit/>
+		<debit>-3159</debit>
+		<timestamp>2018-05-07 01:24:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>923057430</transactionId>
+		<accountId>340</accountId>
+		<credit/>
+		<debit>-4872</debit>
+		<timestamp>2018-05-04 04:11:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>468564405</transactionId>
+		<accountId>718</accountId>
+		<credit/>
+		<debit>-3997</debit>
+		<timestamp>2018-05-16 20:17:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>888046471</transactionId>
+		<accountId>132</accountId>
+		<credit/>
+		<debit>-1558</debit>
+		<timestamp>2018-05-02 10:48:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>943308354</transactionId>
+		<accountId>642</accountId>
+		<credit/>
+		<debit>-4029</debit>
+		<timestamp>2018-05-18 00:17:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>200592215</transactionId>
+		<accountId>858</accountId>
+		<credit/>
+		<debit>-2122</debit>
+		<timestamp>2018-05-05 03:20:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>666277679</transactionId>
+		<accountId>979</accountId>
+		<credit/>
+		<debit>-3025</debit>
+		<timestamp>2018-05-14 00:33:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>723888204</transactionId>
+		<accountId>45</accountId>
+		<credit/>
+		<debit>-2581</debit>
+		<timestamp>2018-05-12 14:38:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>636989870</transactionId>
+		<accountId>604</accountId>
+		<credit/>
+		<debit>-4827</debit>
+		<timestamp>2018-05-11 19:29:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>173402954</transactionId>
+		<accountId>613</accountId>
+		<credit>88701.20</credit>
+		<debit/>
+		<timestamp>2018-05-12 16:55:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>242082257</transactionId>
+		<accountId>372</accountId>
+		<credit/>
+		<debit>-1873</debit>
+		<timestamp>2018-05-14 05:51:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>138551783</transactionId>
+		<accountId>795</accountId>
+		<credit/>
+		<debit>-2359</debit>
+		<timestamp>2018-05-23 17:49:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>227712770</transactionId>
+		<accountId>757</accountId>
+		<credit/>
+		<debit>-4484</debit>
+		<timestamp>2018-05-08 17:39:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>444408420</transactionId>
+		<accountId>172</accountId>
+		<credit/>
+		<debit>-2722</debit>
+		<timestamp>2018-05-01 13:03:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>118538027</transactionId>
+		<accountId>106</accountId>
+		<credit/>
+		<debit>-676</debit>
+		<timestamp>2018-05-24 03:57:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>989509642</transactionId>
+		<accountId>708</accountId>
+		<credit/>
+		<debit>-537</debit>
+		<timestamp>2018-05-07 20:46:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>637601717</transactionId>
+		<accountId>253</accountId>
+		<credit/>
+		<debit>-4390</debit>
+		<timestamp>2018-05-20 19:51:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>929429346</transactionId>
+		<accountId>75</accountId>
+		<credit>142700.82</credit>
+		<debit/>
+		<timestamp>2018-05-05 22:25:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>531991365</transactionId>
+		<accountId>787</accountId>
+		<credit/>
+		<debit>-4711</debit>
+		<timestamp>2018-05-26 11:45:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>232533753</transactionId>
+		<accountId>396</accountId>
+		<credit>246698.04</credit>
+		<debit/>
+		<timestamp>2018-05-14 21:11:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>301608291</transactionId>
+		<accountId>845</accountId>
+		<credit/>
+		<debit>-2343</debit>
+		<timestamp>2018-05-12 13:51:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>225382254</transactionId>
+		<accountId>696</accountId>
+		<credit/>
+		<debit>-1609</debit>
+		<timestamp>2018-05-06 13:43:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>735621138</transactionId>
+		<accountId>721</accountId>
+		<credit>111683.83</credit>
+		<debit/>
+		<timestamp>2018-05-25 09:15:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>378358015</transactionId>
+		<accountId>690</accountId>
+		<credit>200306.44</credit>
+		<debit/>
+		<timestamp>2018-05-17 04:51:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>325252256</transactionId>
+		<accountId>449</accountId>
+		<credit/>
+		<debit>-3370</debit>
+		<timestamp>2018-05-17 18:48:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>322277020</transactionId>
+		<accountId>144</accountId>
+		<credit>11577.11</credit>
+		<debit/>
+		<timestamp>2018-05-23 09:28:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>477995037</transactionId>
+		<accountId>313</accountId>
+		<credit/>
+		<debit>-2310</debit>
+		<timestamp>2018-05-04 21:58:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>443481838</transactionId>
+		<accountId>416</accountId>
+		<credit/>
+		<debit>-1774</debit>
+		<timestamp>2018-05-17 01:51:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>546079535</transactionId>
+		<accountId>376</accountId>
+		<credit>166684.67</credit>
+		<debit/>
+		<timestamp>2018-05-26 01:06:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>229295166</transactionId>
+		<accountId>825</accountId>
+		<credit>188160.89</credit>
+		<debit/>
+		<timestamp>2018-05-05 07:19:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>948547454</transactionId>
+		<accountId>580</accountId>
+		<credit>116012.54</credit>
+		<debit/>
+		<timestamp>2018-05-25 15:22:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>106158697</transactionId>
+		<accountId>142</accountId>
+		<credit/>
+		<debit>-2216</debit>
+		<timestamp>2018-05-15 01:22:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>827797103</transactionId>
+		<accountId>910</accountId>
+		<credit/>
+		<debit>-3844</debit>
+		<timestamp>2018-05-03 16:21:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>728587068</transactionId>
+		<accountId>862</accountId>
+		<credit/>
+		<debit>-4166</debit>
+		<timestamp>2018-05-07 18:42:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>754418926</transactionId>
+		<accountId>104</accountId>
+		<credit/>
+		<debit>-793</debit>
+		<timestamp>2018-05-02 14:15:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>608475538</transactionId>
+		<accountId>89</accountId>
+		<credit/>
+		<debit>-72</debit>
+		<timestamp>2018-05-23 14:41:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>684563538</transactionId>
+		<accountId>697</accountId>
+		<credit/>
+		<debit>-3893</debit>
+		<timestamp>2018-05-12 16:44:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>819103994</transactionId>
+		<accountId>762</accountId>
+		<credit>36505.19</credit>
+		<debit/>
+		<timestamp>2018-05-10 15:43:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>946437667</transactionId>
+		<accountId>93</accountId>
+		<credit>101829.81</credit>
+		<debit/>
+		<timestamp>2018-05-04 03:45:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>132385156</transactionId>
+		<accountId>251</accountId>
+		<credit>63434.15</credit>
+		<debit/>
+		<timestamp>2018-05-07 23:52:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>784275073</transactionId>
+		<accountId>422</accountId>
+		<credit/>
+		<debit>-2192</debit>
+		<timestamp>2018-05-25 17:10:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>628311416</transactionId>
+		<accountId>794</accountId>
+		<credit/>
+		<debit>-1092</debit>
+		<timestamp>2018-05-20 10:32:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>370776993</transactionId>
+		<accountId>182</accountId>
+		<credit>103518.89</credit>
+		<debit/>
+		<timestamp>2018-05-22 05:50:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>642102833</transactionId>
+		<accountId>275</accountId>
+		<credit/>
+		<debit>-926</debit>
+		<timestamp>2018-05-06 16:42:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>977043568</transactionId>
+		<accountId>559</accountId>
+		<credit>186407.45</credit>
+		<debit/>
+		<timestamp>2018-05-24 07:26:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>268154245</transactionId>
+		<accountId>118</accountId>
+		<credit>175762.71</credit>
+		<debit/>
+		<timestamp>2018-05-09 16:03:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>535358607</transactionId>
+		<accountId>204</accountId>
+		<credit/>
+		<debit>-2633</debit>
+		<timestamp>2018-05-02 14:52:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>183525838</transactionId>
+		<accountId>641</accountId>
+		<credit/>
+		<debit>-1273</debit>
+		<timestamp>2018-05-05 08:38:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>636132568</transactionId>
+		<accountId>526</accountId>
+		<credit/>
+		<debit>-1418</debit>
+		<timestamp>2018-05-09 23:41:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>723548544</transactionId>
+		<accountId>244</accountId>
+		<credit/>
+		<debit>-1046</debit>
+		<timestamp>2018-05-07 02:26:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>404892229</transactionId>
+		<accountId>134</accountId>
+		<credit/>
+		<debit>-4945</debit>
+		<timestamp>2018-05-10 02:30:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>553276542</transactionId>
+		<accountId>167</accountId>
+		<credit>132486.18</credit>
+		<debit/>
+		<timestamp>2018-05-24 09:59:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>641723492</transactionId>
+		<accountId>440</accountId>
+		<credit/>
+		<debit>-2442</debit>
+		<timestamp>2018-05-09 07:20:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>434194343</transactionId>
+		<accountId>426</accountId>
+		<credit/>
+		<debit>-1418</debit>
+		<timestamp>2018-05-11 19:17:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>987720575</transactionId>
+		<accountId>779</accountId>
+		<credit/>
+		<debit>-3945</debit>
+		<timestamp>2018-05-11 03:18:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>312613154</transactionId>
+		<accountId>944</accountId>
+		<credit/>
+		<debit>-3887</debit>
+		<timestamp>2018-05-15 23:45:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>792320439</transactionId>
+		<accountId>920</accountId>
+		<credit/>
+		<debit>-622</debit>
+		<timestamp>2018-05-19 16:50:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>979608438</transactionId>
+		<accountId>677</accountId>
+		<credit/>
+		<debit>-1744</debit>
+		<timestamp>2018-05-02 04:23:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>890333406</transactionId>
+		<accountId>794</accountId>
+		<credit/>
+		<debit>-586</debit>
+		<timestamp>2018-05-10 00:33:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>212119790</transactionId>
+		<accountId>617</accountId>
+		<credit/>
+		<debit>-2040</debit>
+		<timestamp>2018-05-07 10:34:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>254503662</transactionId>
+		<accountId>832</accountId>
+		<credit>20848.22</credit>
+		<debit/>
+		<timestamp>2018-05-05 20:40:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>935513191</transactionId>
+		<accountId>603</accountId>
+		<credit/>
+		<debit>-55</debit>
+		<timestamp>2018-05-09 05:32:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>997023686</transactionId>
+		<accountId>674</accountId>
+		<credit/>
+		<debit>-4779</debit>
+		<timestamp>2018-05-11 05:19:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>552842033</transactionId>
+		<accountId>435</accountId>
+		<credit>201030.85</credit>
+		<debit/>
+		<timestamp>2018-05-09 12:01:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>138875705</transactionId>
+		<accountId>847</accountId>
+		<credit>48488.12</credit>
+		<debit/>
+		<timestamp>2018-05-12 06:54:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>687294025</transactionId>
+		<accountId>446</accountId>
+		<credit/>
+		<debit>-845</debit>
+		<timestamp>2018-05-27 20:35:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>490850753</transactionId>
+		<accountId>940</accountId>
+		<credit/>
+		<debit>-22</debit>
+		<timestamp>2018-05-21 08:46:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>862997599</transactionId>
+		<accountId>873</accountId>
+		<credit>116140.39</credit>
+		<debit/>
+		<timestamp>2018-05-09 15:30:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>487308627</transactionId>
+		<accountId>943</accountId>
+		<credit/>
+		<debit>-4578</debit>
+		<timestamp>2018-05-27 13:34:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>371239895</transactionId>
+		<accountId>208</accountId>
+		<credit/>
+		<debit>-4726</debit>
+		<timestamp>2018-05-01 01:09:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>941267774</transactionId>
+		<accountId>576</accountId>
+		<credit/>
+		<debit>-607</debit>
+		<timestamp>2018-05-26 10:14:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>566238739</transactionId>
+		<accountId>553</accountId>
+		<credit/>
+		<debit>-2674</debit>
+		<timestamp>2018-05-19 06:30:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>668136675</transactionId>
+		<accountId>531</accountId>
+		<credit/>
+		<debit>-2909</debit>
+		<timestamp>2018-05-16 23:57:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>403960169</transactionId>
+		<accountId>454</accountId>
+		<credit/>
+		<debit>-4149</debit>
+		<timestamp>2018-05-23 12:42:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>225793758</transactionId>
+		<accountId>54</accountId>
+		<credit/>
+		<debit>-2863</debit>
+		<timestamp>2018-05-14 13:00:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>423952208</transactionId>
+		<accountId>247</accountId>
+		<credit/>
+		<debit>-157</debit>
+		<timestamp>2018-05-11 10:12:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>428697338</transactionId>
+		<accountId>118</accountId>
+		<credit>188591.13</credit>
+		<debit/>
+		<timestamp>2018-05-08 19:56:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>175674322</transactionId>
+		<accountId>18</accountId>
+		<credit/>
+		<debit>-2431</debit>
+		<timestamp>2018-05-11 00:36:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>651677334</transactionId>
+		<accountId>327</accountId>
+		<credit>140290.72</credit>
+		<debit/>
+		<timestamp>2018-05-27 04:38:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>625085137</transactionId>
+		<accountId>50</accountId>
+		<credit/>
+		<debit>-2092</debit>
+		<timestamp>2018-05-02 23:47:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>837624488</transactionId>
+		<accountId>303</accountId>
+		<credit>207148.63</credit>
+		<debit/>
+		<timestamp>2018-05-25 04:05:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>741069863</transactionId>
+		<accountId>584</accountId>
+		<credit/>
+		<debit>-2802</debit>
+		<timestamp>2018-05-22 17:58:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>592393242</transactionId>
+		<accountId>339</accountId>
+		<credit/>
+		<debit>-1755</debit>
+		<timestamp>2018-05-12 08:42:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>794238545</transactionId>
+		<accountId>918</accountId>
+		<credit/>
+		<debit>-1881</debit>
+		<timestamp>2018-05-03 08:42:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>698777549</transactionId>
+		<accountId>361</accountId>
+		<credit/>
+		<debit>-1013</debit>
+		<timestamp>2018-05-22 08:51:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>388180483</transactionId>
+		<accountId>238</accountId>
+		<credit/>
+		<debit>-3643</debit>
+		<timestamp>2018-05-10 09:26:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>442898815</transactionId>
+		<accountId>656</accountId>
+		<credit/>
+		<debit>-1528</debit>
+		<timestamp>2018-05-07 02:38:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>533851469</transactionId>
+		<accountId>661</accountId>
+		<credit/>
+		<debit>-3266</debit>
+		<timestamp>2018-05-15 20:16:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>592248140</transactionId>
+		<accountId>960</accountId>
+		<credit/>
+		<debit>-1783</debit>
+		<timestamp>2018-05-04 10:15:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>252565350</transactionId>
+		<accountId>599</accountId>
+		<credit/>
+		<debit>-562</debit>
+		<timestamp>2018-05-03 20:31:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>781692627</transactionId>
+		<accountId>536</accountId>
+		<credit>29682.78</credit>
+		<debit/>
+		<timestamp>2018-05-24 18:12:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>437380557</transactionId>
+		<accountId>719</accountId>
+		<credit/>
+		<debit>-2738</debit>
+		<timestamp>2018-05-27 10:04:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>522298704</transactionId>
+		<accountId>387</accountId>
+		<credit/>
+		<debit>-776</debit>
+		<timestamp>2018-05-03 14:52:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>345004962</transactionId>
+		<accountId>600</accountId>
+		<credit/>
+		<debit>-4989</debit>
+		<timestamp>2018-05-08 04:14:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>450594764</transactionId>
+		<accountId>317</accountId>
+		<credit>71733.44</credit>
+		<debit/>
+		<timestamp>2018-05-07 14:51:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>269762450</transactionId>
+		<accountId>935</accountId>
+		<credit/>
+		<debit>-772</debit>
+		<timestamp>2018-05-07 07:02:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>303255443</transactionId>
+		<accountId>156</accountId>
+		<credit>47262.77</credit>
+		<debit/>
+		<timestamp>2018-05-11 06:15:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>994122848</transactionId>
+		<accountId>586</accountId>
+		<credit/>
+		<debit>-2049</debit>
+		<timestamp>2018-05-14 14:42:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>824725085</transactionId>
+		<accountId>87</accountId>
+		<credit>168100.29</credit>
+		<debit/>
+		<timestamp>2018-05-15 00:18:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>145565400</transactionId>
+		<accountId>332</accountId>
+		<credit/>
+		<debit>-1357</debit>
+		<timestamp>2018-05-23 00:58:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>888089916</transactionId>
+		<accountId>293</accountId>
+		<credit/>
+		<debit>-1525</debit>
+		<timestamp>2018-05-06 21:20:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>317108478</transactionId>
+		<accountId>173</accountId>
+		<credit/>
+		<debit>-4638</debit>
+		<timestamp>2018-05-07 09:01:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>837823029</transactionId>
+		<accountId>501</accountId>
+		<credit/>
+		<debit>-2704</debit>
+		<timestamp>2018-05-22 00:42:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>498346394</transactionId>
+		<accountId>750</accountId>
+		<credit/>
+		<debit>-3284</debit>
+		<timestamp>2018-05-03 19:38:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>792532174</transactionId>
+		<accountId>788</accountId>
+		<credit/>
+		<debit>-4082</debit>
+		<timestamp>2018-05-27 22:42:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>295967122</transactionId>
+		<accountId>716</accountId>
+		<credit>27472.18</credit>
+		<debit/>
+		<timestamp>2018-05-10 22:47:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>302911842</transactionId>
+		<accountId>396</accountId>
+		<credit/>
+		<debit>-2429</debit>
+		<timestamp>2018-05-23 00:38:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>689996608</transactionId>
+		<accountId>921</accountId>
+		<credit/>
+		<debit>-4024</debit>
+		<timestamp>2018-05-21 15:18:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>744941584</transactionId>
+		<accountId>605</accountId>
+		<credit/>
+		<debit>-2181</debit>
+		<timestamp>2018-05-22 13:08:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>730962476</transactionId>
+		<accountId>610</accountId>
+		<credit/>
+		<debit>-2403</debit>
+		<timestamp>2018-05-14 04:12:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>566903765</transactionId>
+		<accountId>936</accountId>
+		<credit/>
+		<debit>-1165</debit>
+		<timestamp>2018-05-01 23:50:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>631131585</transactionId>
+		<accountId>293</accountId>
+		<credit>93382.08</credit>
+		<debit/>
+		<timestamp>2018-05-12 05:41:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>242611154</transactionId>
+		<accountId>713</accountId>
+		<credit/>
+		<debit>-4578</debit>
+		<timestamp>2018-05-28 15:16:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>306632385</transactionId>
+		<accountId>235</accountId>
+		<credit/>
+		<debit>-1645</debit>
+		<timestamp>2018-05-25 22:39:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>321000082</transactionId>
+		<accountId>17</accountId>
+		<credit>143186.90</credit>
+		<debit/>
+		<timestamp>2018-05-06 13:28:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>120839600</transactionId>
+		<accountId>989</accountId>
+		<credit/>
+		<debit>-4141</debit>
+		<timestamp>2018-05-09 17:32:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>365591187</transactionId>
+		<accountId>5</accountId>
+		<credit/>
+		<debit>-210</debit>
+		<timestamp>2018-05-15 12:20:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>674214702</transactionId>
+		<accountId>728</accountId>
+		<credit/>
+		<debit>-2544</debit>
+		<timestamp>2018-05-26 07:12:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>121757422</transactionId>
+		<accountId>221</accountId>
+		<credit/>
+		<debit>-3366</debit>
+		<timestamp>2018-05-25 15:48:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>594826956</transactionId>
+		<accountId>905</accountId>
+		<credit/>
+		<debit>-4926</debit>
+		<timestamp>2018-05-29 15:05:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>626341571</transactionId>
+		<accountId>329</accountId>
+		<credit/>
+		<debit>-2604</debit>
+		<timestamp>2018-05-22 17:42:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>961345134</transactionId>
+		<accountId>668</accountId>
+		<credit/>
+		<debit>-3739</debit>
+		<timestamp>2018-05-13 16:32:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>588980319</transactionId>
+		<accountId>670</accountId>
+		<credit>132461.68</credit>
+		<debit/>
+		<timestamp>2018-05-07 02:23:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>222098906</transactionId>
+		<accountId>987</accountId>
+		<credit/>
+		<debit>-3429</debit>
+		<timestamp>2018-05-19 12:45:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>869114549</transactionId>
+		<accountId>850</accountId>
+		<credit/>
+		<debit>-874</debit>
+		<timestamp>2018-05-15 13:07:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>778871181</transactionId>
+		<accountId>388</accountId>
+		<credit>92382.63</credit>
+		<debit/>
+		<timestamp>2018-05-03 19:07:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>645315689</transactionId>
+		<accountId>620</accountId>
+		<credit/>
+		<debit>-4982</debit>
+		<timestamp>2018-05-01 02:36:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>386008267</transactionId>
+		<accountId>517</accountId>
+		<credit/>
+		<debit>-1980</debit>
+		<timestamp>2018-05-13 11:52:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>690796562</transactionId>
+		<accountId>830</accountId>
+		<credit/>
+		<debit>-2042</debit>
+		<timestamp>2018-05-26 06:59:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>170669072</transactionId>
+		<accountId>131</accountId>
+		<credit>88282.06</credit>
+		<debit/>
+		<timestamp>2018-05-04 15:23:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>336483750</transactionId>
+		<accountId>810</accountId>
+		<credit/>
+		<debit>-2433</debit>
+		<timestamp>2018-05-09 23:10:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>160139710</transactionId>
+		<accountId>485</accountId>
+		<credit/>
+		<debit>-2449</debit>
+		<timestamp>2018-05-11 15:23:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>855481992</transactionId>
+		<accountId>143</accountId>
+		<credit/>
+		<debit>-613</debit>
+		<timestamp>2018-05-11 06:28:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>393371779</transactionId>
+		<accountId>150</accountId>
+		<credit>52584.13</credit>
+		<debit/>
+		<timestamp>2018-05-19 22:37:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>370426221</transactionId>
+		<accountId>597</accountId>
+		<credit/>
+		<debit>-1317</debit>
+		<timestamp>2018-05-09 18:25:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>467125910</transactionId>
+		<accountId>484</accountId>
+		<credit>129096.82</credit>
+		<debit/>
+		<timestamp>2018-05-21 07:56:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>917826992</transactionId>
+		<accountId>329</accountId>
+		<credit/>
+		<debit>-3651</debit>
+		<timestamp>2018-05-15 19:28:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>911100188</transactionId>
+		<accountId>870</accountId>
+		<credit/>
+		<debit>-4528</debit>
+		<timestamp>2018-05-11 07:07:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>668084143</transactionId>
+		<accountId>352</accountId>
+		<credit>242081.63</credit>
+		<debit/>
+		<timestamp>2018-05-10 20:18:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>763235131</transactionId>
+		<accountId>761</accountId>
+		<credit>213082.87</credit>
+		<debit/>
+		<timestamp>2018-05-15 16:41:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>648429261</transactionId>
+		<accountId>473</accountId>
+		<credit/>
+		<debit>-141</debit>
+		<timestamp>2018-05-09 09:15:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>636575415</transactionId>
+		<accountId>889</accountId>
+		<credit/>
+		<debit>-3878</debit>
+		<timestamp>2018-05-10 01:10:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>304632036</transactionId>
+		<accountId>415</accountId>
+		<credit/>
+		<debit>-3977</debit>
+		<timestamp>2018-05-07 11:50:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>974228388</transactionId>
+		<accountId>32</accountId>
+		<credit/>
+		<debit>-3200</debit>
+		<timestamp>2018-05-05 05:18:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>971834443</transactionId>
+		<accountId>905</accountId>
+		<credit/>
+		<debit>-2395</debit>
+		<timestamp>2018-05-29 03:25:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>514354706</transactionId>
+		<accountId>380</accountId>
+		<credit/>
+		<debit>-4015</debit>
+		<timestamp>2018-05-17 18:12:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>496210068</transactionId>
+		<accountId>776</accountId>
+		<credit/>
+		<debit>-3285</debit>
+		<timestamp>2018-05-14 06:23:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>305622672</transactionId>
+		<accountId>10</accountId>
+		<credit/>
+		<debit>-3907</debit>
+		<timestamp>2018-05-05 21:31:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>775172630</transactionId>
+		<accountId>732</accountId>
+		<credit/>
+		<debit>-4256</debit>
+		<timestamp>2018-05-04 22:23:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>667037792</transactionId>
+		<accountId>683</accountId>
+		<credit/>
+		<debit>-2389</debit>
+		<timestamp>2018-05-15 08:32:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>772846510</transactionId>
+		<accountId>573</accountId>
+		<credit>9739.48</credit>
+		<debit/>
+		<timestamp>2018-05-14 23:06:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>534252986</transactionId>
+		<accountId>979</accountId>
+		<credit/>
+		<debit>-4918</debit>
+		<timestamp>2018-05-22 18:57:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>606303459</transactionId>
+		<accountId>57</accountId>
+		<credit/>
+		<debit>-3895</debit>
+		<timestamp>2018-05-29 04:16:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>310269078</transactionId>
+		<accountId>223</accountId>
+		<credit/>
+		<debit>-4025</debit>
+		<timestamp>2018-05-10 05:23:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>705003995</transactionId>
+		<accountId>51</accountId>
+		<credit/>
+		<debit>-3289</debit>
+		<timestamp>2018-05-15 18:19:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>790060790</transactionId>
+		<accountId>267</accountId>
+		<credit>200875.51</credit>
+		<debit/>
+		<timestamp>2018-05-09 18:03:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>223771698</transactionId>
+		<accountId>643</accountId>
+		<credit/>
+		<debit>-1249</debit>
+		<timestamp>2018-05-14 01:36:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>984463980</transactionId>
+		<accountId>66</accountId>
+		<credit/>
+		<debit>-348</debit>
+		<timestamp>2018-05-08 02:37:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>665469369</transactionId>
+		<accountId>233</accountId>
+		<credit>30115.25</credit>
+		<debit/>
+		<timestamp>2018-05-12 14:08:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>327983581</transactionId>
+		<accountId>486</accountId>
+		<credit/>
+		<debit>-3466</debit>
+		<timestamp>2018-05-25 07:06:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>637107037</transactionId>
+		<accountId>518</accountId>
+		<credit/>
+		<debit>-3355</debit>
+		<timestamp>2018-05-11 04:24:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>832628478</transactionId>
+		<accountId>241</accountId>
+		<credit/>
+		<debit>-1639</debit>
+		<timestamp>2018-05-21 02:46:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>689257141</transactionId>
+		<accountId>870</accountId>
+		<credit/>
+		<debit>-4978</debit>
+		<timestamp>2018-05-03 18:49:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>994285640</transactionId>
+		<accountId>113</accountId>
+		<credit/>
+		<debit>-2447</debit>
+		<timestamp>2018-05-27 01:17:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>796295707</transactionId>
+		<accountId>664</accountId>
+		<credit/>
+		<debit>-761</debit>
+		<timestamp>2018-05-03 07:16:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>198888314</transactionId>
+		<accountId>276</accountId>
+		<credit/>
+		<debit>-3278</debit>
+		<timestamp>2018-05-14 05:35:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>252270224</transactionId>
+		<accountId>389</accountId>
+		<credit/>
+		<debit>-272</debit>
+		<timestamp>2018-05-06 15:44:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>824348981</transactionId>
+		<accountId>964</accountId>
+		<credit/>
+		<debit>-1388</debit>
+		<timestamp>2018-05-20 14:01:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>833375813</transactionId>
+		<accountId>557</accountId>
+		<credit/>
+		<debit>-1157</debit>
+		<timestamp>2018-05-12 06:01:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>651754980</transactionId>
+		<accountId>818</accountId>
+		<credit/>
+		<debit>-2647</debit>
+		<timestamp>2018-05-27 06:26:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>620277529</transactionId>
+		<accountId>350</accountId>
+		<credit/>
+		<debit>-4881</debit>
+		<timestamp>2018-05-25 01:28:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>693389793</transactionId>
+		<accountId>52</accountId>
+		<credit/>
+		<debit>-267</debit>
+		<timestamp>2018-05-01 15:28:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>444273430</transactionId>
+		<accountId>723</accountId>
+		<credit>40196.61</credit>
+		<debit/>
+		<timestamp>2018-05-12 10:36:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>195480999</transactionId>
+		<accountId>98</accountId>
+		<credit/>
+		<debit>-2956</debit>
+		<timestamp>2018-05-05 16:28:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>967051664</transactionId>
+		<accountId>445</accountId>
+		<credit/>
+		<debit>-2715</debit>
+		<timestamp>2018-05-29 10:43:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>811040068</transactionId>
+		<accountId>403</accountId>
+		<credit/>
+		<debit>-741</debit>
+		<timestamp>2018-05-26 14:13:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>265100499</transactionId>
+		<accountId>81</accountId>
+		<credit/>
+		<debit>-587</debit>
+		<timestamp>2018-05-13 07:16:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>229936828</transactionId>
+		<accountId>899</accountId>
+		<credit>249157.97</credit>
+		<debit/>
+		<timestamp>2018-05-07 17:12:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>764773204</transactionId>
+		<accountId>778</accountId>
+		<credit>148988.63</credit>
+		<debit/>
+		<timestamp>2018-05-29 13:39:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>747074391</transactionId>
+		<accountId>365</accountId>
+		<credit/>
+		<debit>-3031</debit>
+		<timestamp>2018-05-10 17:07:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>384419811</transactionId>
+		<accountId>840</accountId>
+		<credit/>
+		<debit>-369</debit>
+		<timestamp>2018-05-12 11:15:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>674905824</transactionId>
+		<accountId>955</accountId>
+		<credit/>
+		<debit>-4965</debit>
+		<timestamp>2018-05-27 08:57:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>232275652</transactionId>
+		<accountId>419</accountId>
+		<credit/>
+		<debit>-3349</debit>
+		<timestamp>2018-05-05 11:02:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>839487520</transactionId>
+		<accountId>315</accountId>
+		<credit/>
+		<debit>-2778</debit>
+		<timestamp>2018-05-14 19:09:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>229436486</transactionId>
+		<accountId>534</accountId>
+		<credit/>
+		<debit>-1502</debit>
+		<timestamp>2018-05-28 12:57:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>673996419</transactionId>
+		<accountId>568</accountId>
+		<credit>240331.70</credit>
+		<debit/>
+		<timestamp>2018-05-29 08:10:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>740745013</transactionId>
+		<accountId>446</accountId>
+		<credit/>
+		<debit>-670</debit>
+		<timestamp>2018-05-05 23:50:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>611128388</transactionId>
+		<accountId>800</accountId>
+		<credit/>
+		<debit>-4479</debit>
+		<timestamp>2018-05-15 04:40:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>326278888</transactionId>
+		<accountId>913</accountId>
+		<credit/>
+		<debit>-2250</debit>
+		<timestamp>2018-05-03 19:13:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>778046223</transactionId>
+		<accountId>366</accountId>
+		<credit>196512.68</credit>
+		<debit/>
+		<timestamp>2018-05-06 09:11:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>688757223</transactionId>
+		<accountId>752</accountId>
+		<credit>10298.11</credit>
+		<debit/>
+		<timestamp>2018-05-13 01:50:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>594155545</transactionId>
+		<accountId>639</accountId>
+		<credit/>
+		<debit>-809</debit>
+		<timestamp>2018-05-19 17:13:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>180530131</transactionId>
+		<accountId>297</accountId>
+		<credit>68895.26</credit>
+		<debit/>
+		<timestamp>2018-05-18 02:45:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>666401809</transactionId>
+		<accountId>173</accountId>
+		<credit/>
+		<debit>-559</debit>
+		<timestamp>2018-05-14 21:18:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>302172995</transactionId>
+		<accountId>40</accountId>
+		<credit/>
+		<debit>-4070</debit>
+		<timestamp>2018-05-17 14:38:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>780208785</transactionId>
+		<accountId>18</accountId>
+		<credit/>
+		<debit>-3181</debit>
+		<timestamp>2018-05-27 10:40:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>169580533</transactionId>
+		<accountId>805</accountId>
+		<credit/>
+		<debit>-2778</debit>
+		<timestamp>2018-05-15 15:54:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>855699973</transactionId>
+		<accountId>277</accountId>
+		<credit/>
+		<debit>-1463</debit>
+		<timestamp>2018-05-21 15:43:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>750063365</transactionId>
+		<accountId>541</accountId>
+		<credit/>
+		<debit>-4540</debit>
+		<timestamp>2018-05-10 03:14:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>776781592</transactionId>
+		<accountId>796</accountId>
+		<credit/>
+		<debit>-3864</debit>
+		<timestamp>2018-05-16 04:05:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>689193663</transactionId>
+		<accountId>560</accountId>
+		<credit/>
+		<debit>-2322</debit>
+		<timestamp>2018-05-23 03:15:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>314331353</transactionId>
+		<accountId>306</accountId>
+		<credit>232673.40</credit>
+		<debit/>
+		<timestamp>2018-05-20 02:32:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>468852128</transactionId>
+		<accountId>684</accountId>
+		<credit>187897.53</credit>
+		<debit/>
+		<timestamp>2018-05-17 18:05:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>270050632</transactionId>
+		<accountId>679</accountId>
+		<credit/>
+		<debit>-2401</debit>
+		<timestamp>2018-05-02 05:09:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>506213380</transactionId>
+		<accountId>820</accountId>
+		<credit/>
+		<debit>-3925</debit>
+		<timestamp>2018-05-14 22:17:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>797443615</transactionId>
+		<accountId>321</accountId>
+		<credit/>
+		<debit>-4743</debit>
+		<timestamp>2018-05-27 00:43:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>244919149</transactionId>
+		<accountId>428</accountId>
+		<credit/>
+		<debit>-452</debit>
+		<timestamp>2018-05-14 07:28:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>827264770</transactionId>
+		<accountId>702</accountId>
+		<credit/>
+		<debit>-2252</debit>
+		<timestamp>2018-05-01 04:40:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>135964429</transactionId>
+		<accountId>769</accountId>
+		<credit/>
+		<debit>-423</debit>
+		<timestamp>2018-05-13 08:00:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>783104466</transactionId>
+		<accountId>655</accountId>
+		<credit/>
+		<debit>-4215</debit>
+		<timestamp>2018-05-02 05:29:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>470714697</transactionId>
+		<accountId>193</accountId>
+		<credit/>
+		<debit>-397</debit>
+		<timestamp>2018-05-15 00:34:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>191021050</transactionId>
+		<accountId>3</accountId>
+		<credit>45074.09</credit>
+		<debit/>
+		<timestamp>2018-05-17 13:55:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>110301498</transactionId>
+		<accountId>949</accountId>
+		<credit/>
+		<debit>-4832</debit>
+		<timestamp>2018-05-27 12:39:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>938710124</transactionId>
+		<accountId>62</accountId>
+		<credit>37689.00</credit>
+		<debit/>
+		<timestamp>2018-05-26 03:10:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>805415334</transactionId>
+		<accountId>499</accountId>
+		<credit/>
+		<debit>-1133</debit>
+		<timestamp>2018-05-26 23:04:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>902430001</transactionId>
+		<accountId>465</accountId>
+		<credit>12655.66</credit>
+		<debit/>
+		<timestamp>2018-05-21 20:10:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>389632428</transactionId>
+		<accountId>314</accountId>
+		<credit/>
+		<debit>-1658</debit>
+		<timestamp>2018-05-09 18:52:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>279015499</transactionId>
+		<accountId>762</accountId>
+		<credit/>
+		<debit>-73</debit>
+		<timestamp>2018-05-21 17:22:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>421001645</transactionId>
+		<accountId>147</accountId>
+		<credit/>
+		<debit>-497</debit>
+		<timestamp>2018-05-27 05:34:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>991805058</transactionId>
+		<accountId>128</accountId>
+		<credit/>
+		<debit>-1086</debit>
+		<timestamp>2018-05-27 05:07:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>656391316</transactionId>
+		<accountId>162</accountId>
+		<credit/>
+		<debit>-1087</debit>
+		<timestamp>2018-05-06 22:19:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>871643322</transactionId>
+		<accountId>888</accountId>
+		<credit/>
+		<debit>-586</debit>
+		<timestamp>2018-05-06 14:58:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>550992965</transactionId>
+		<accountId>104</accountId>
+		<credit/>
+		<debit>-2366</debit>
+		<timestamp>2018-05-08 20:52:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>244414938</transactionId>
+		<accountId>605</accountId>
+		<credit>124032.16</credit>
+		<debit/>
+		<timestamp>2018-05-15 07:28:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>287754622</transactionId>
+		<accountId>195</accountId>
+		<credit/>
+		<debit>-4781</debit>
+		<timestamp>2018-05-12 13:08:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>142417164</transactionId>
+		<accountId>293</accountId>
+		<credit>51542.54</credit>
+		<debit/>
+		<timestamp>2018-05-18 07:41:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>185436877</transactionId>
+		<accountId>512</accountId>
+		<credit/>
+		<debit>-3119</debit>
+		<timestamp>2018-05-18 20:35:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>736327497</transactionId>
+		<accountId>437</accountId>
+		<credit>28883.41</credit>
+		<debit/>
+		<timestamp>2018-05-24 14:35:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>542696607</transactionId>
+		<accountId>498</accountId>
+		<credit/>
+		<debit>-592</debit>
+		<timestamp>2018-05-18 19:37:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>167799777</transactionId>
+		<accountId>828</accountId>
+		<credit>7421.29</credit>
+		<debit/>
+		<timestamp>2018-05-20 00:08:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>737844637</transactionId>
+		<accountId>378</accountId>
+		<credit/>
+		<debit>-4993</debit>
+		<timestamp>2018-05-26 19:17:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>542514585</transactionId>
+		<accountId>815</accountId>
+		<credit/>
+		<debit>-1462</debit>
+		<timestamp>2018-05-04 08:12:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>336394438</transactionId>
+		<accountId>31</accountId>
+		<credit/>
+		<debit>-1628</debit>
+		<timestamp>2018-05-25 19:31:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>445926369</transactionId>
+		<accountId>317</accountId>
+		<credit>123294.02</credit>
+		<debit/>
+		<timestamp>2018-05-05 09:55:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>185974768</transactionId>
+		<accountId>804</accountId>
+		<credit/>
+		<debit>-2190</debit>
+		<timestamp>2018-05-29 14:20:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>915638942</transactionId>
+		<accountId>806</accountId>
+		<credit>216376.71</credit>
+		<debit/>
+		<timestamp>2018-05-06 19:20:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>114784848</transactionId>
+		<accountId>157</accountId>
+		<credit/>
+		<debit>-3184</debit>
+		<timestamp>2018-05-25 15:46:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>326828927</transactionId>
+		<accountId>140</accountId>
+		<credit/>
+		<debit>-983</debit>
+		<timestamp>2018-05-08 00:22:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>336154149</transactionId>
+		<accountId>39</accountId>
+		<credit/>
+		<debit>-1664</debit>
+		<timestamp>2018-05-04 17:41:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>592736477</transactionId>
+		<accountId>632</accountId>
+		<credit/>
+		<debit>-2759</debit>
+		<timestamp>2018-05-17 20:31:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>444204605</transactionId>
+		<accountId>106</accountId>
+		<credit/>
+		<debit>-3414</debit>
+		<timestamp>2018-05-29 17:00:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>112121783</transactionId>
+		<accountId>367</accountId>
+		<credit/>
+		<debit>-3298</debit>
+		<timestamp>2018-05-06 01:01:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>372788079</transactionId>
+		<accountId>814</accountId>
+		<credit/>
+		<debit>-1231</debit>
+		<timestamp>2018-05-19 09:56:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>462269171</transactionId>
+		<accountId>915</accountId>
+		<credit>217920.39</credit>
+		<debit/>
+		<timestamp>2018-05-16 19:50:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>113877597</transactionId>
+		<accountId>922</accountId>
+		<credit/>
+		<debit>-3285</debit>
+		<timestamp>2018-05-23 17:23:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>276971554</transactionId>
+		<accountId>486</accountId>
+		<credit/>
+		<debit>-4102</debit>
+		<timestamp>2018-05-14 01:18:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>833445601</transactionId>
+		<accountId>938</accountId>
+		<credit/>
+		<debit>-3647</debit>
+		<timestamp>2018-05-27 04:27:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>215296673</transactionId>
+		<accountId>994</accountId>
+		<credit/>
+		<debit>-2535</debit>
+		<timestamp>2018-05-23 23:50:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>545935349</transactionId>
+		<accountId>700</accountId>
+		<credit/>
+		<debit>-1347</debit>
+		<timestamp>2018-05-06 16:42:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>154924027</transactionId>
+		<accountId>298</accountId>
+		<credit/>
+		<debit>-1435</debit>
+		<timestamp>2018-05-26 21:58:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>388268568</transactionId>
+		<accountId>815</accountId>
+		<credit/>
+		<debit>-4908</debit>
+		<timestamp>2018-05-07 13:22:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>509142758</transactionId>
+		<accountId>495</accountId>
+		<credit>230397.08</credit>
+		<debit/>
+		<timestamp>2018-05-13 17:47:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>304335287</transactionId>
+		<accountId>742</accountId>
+		<credit/>
+		<debit>-4550</debit>
+		<timestamp>2018-05-07 03:02:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>792873525</transactionId>
+		<accountId>620</accountId>
+		<credit/>
+		<debit>-1234</debit>
+		<timestamp>2018-05-09 05:09:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>702266592</transactionId>
+		<accountId>1000</accountId>
+		<credit>153485.76</credit>
+		<debit/>
+		<timestamp>2018-05-11 14:47:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>696720379</transactionId>
+		<accountId>378</accountId>
+		<credit>51637.59</credit>
+		<debit/>
+		<timestamp>2018-05-28 00:24:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>974860927</transactionId>
+		<accountId>877</accountId>
+		<credit/>
+		<debit>-750</debit>
+		<timestamp>2018-05-07 21:49:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>184359931</transactionId>
+		<accountId>126</accountId>
+		<credit>113004.92</credit>
+		<debit/>
+		<timestamp>2018-05-27 23:58:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>990297988</transactionId>
+		<accountId>738</accountId>
+		<credit/>
+		<debit>-4646</debit>
+		<timestamp>2018-05-19 22:23:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>889689436</transactionId>
+		<accountId>246</accountId>
+		<credit/>
+		<debit>-1066</debit>
+		<timestamp>2018-05-03 01:37:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>327765557</transactionId>
+		<accountId>745</accountId>
+		<credit/>
+		<debit>-4315</debit>
+		<timestamp>2018-05-24 00:30:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>550951366</transactionId>
+		<accountId>740</accountId>
+		<credit/>
+		<debit>-3977</debit>
+		<timestamp>2018-05-22 04:30:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>657815117</transactionId>
+		<accountId>996</accountId>
+		<credit/>
+		<debit>-2789</debit>
+		<timestamp>2018-05-23 00:45:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>431800986</transactionId>
+		<accountId>221</accountId>
+		<credit/>
+		<debit>-3571</debit>
+		<timestamp>2018-05-28 17:42:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>398119816</transactionId>
+		<accountId>204</accountId>
+		<credit/>
+		<debit>-258</debit>
+		<timestamp>2018-05-22 12:16:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>445653178</transactionId>
+		<accountId>939</accountId>
+		<credit/>
+		<debit>-4768</debit>
+		<timestamp>2018-05-02 20:43:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>930600505</transactionId>
+		<accountId>102</accountId>
+		<credit/>
+		<debit>-3015</debit>
+		<timestamp>2018-05-03 11:52:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>375582406</transactionId>
+		<accountId>887</accountId>
+		<credit>207264.91</credit>
+		<debit/>
+		<timestamp>2018-05-12 17:17:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>746265341</transactionId>
+		<accountId>976</accountId>
+		<credit/>
+		<debit>-3307</debit>
+		<timestamp>2018-05-14 15:46:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>504176442</transactionId>
+		<accountId>863</accountId>
+		<credit/>
+		<debit>-4334</debit>
+		<timestamp>2018-05-10 15:36:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>778340250</transactionId>
+		<accountId>159</accountId>
+		<credit/>
+		<debit>-4270</debit>
+		<timestamp>2018-05-14 07:59:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>446889104</transactionId>
+		<accountId>533</accountId>
+		<credit>191071.38</credit>
+		<debit/>
+		<timestamp>2018-05-16 16:34:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>627021917</transactionId>
+		<accountId>636</accountId>
+		<credit/>
+		<debit>-4343</debit>
+		<timestamp>2018-05-13 21:01:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>806622732</transactionId>
+		<accountId>747</accountId>
+		<credit/>
+		<debit>-3450</debit>
+		<timestamp>2018-05-10 20:57:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>357099428</transactionId>
+		<accountId>385</accountId>
+		<credit/>
+		<debit>-4338</debit>
+		<timestamp>2018-05-09 08:57:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>396738807</transactionId>
+		<accountId>20</accountId>
+		<credit/>
+		<debit>-4339</debit>
+		<timestamp>2018-05-13 23:37:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>407903542</transactionId>
+		<accountId>978</accountId>
+		<credit/>
+		<debit>-450</debit>
+		<timestamp>2018-05-25 10:15:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>981832541</transactionId>
+		<accountId>857</accountId>
+		<credit/>
+		<debit>-3861</debit>
+		<timestamp>2018-05-04 10:13:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>972582437</transactionId>
+		<accountId>248</accountId>
+		<credit/>
+		<debit>-4855</debit>
+		<timestamp>2018-05-21 14:56:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>276893634</transactionId>
+		<accountId>337</accountId>
+		<credit/>
+		<debit>-4452</debit>
+		<timestamp>2018-05-24 01:30:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>435504316</transactionId>
+		<accountId>282</accountId>
+		<credit>28689.46</credit>
+		<debit/>
+		<timestamp>2018-05-12 14:41:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>562130178</transactionId>
+		<accountId>845</accountId>
+		<credit/>
+		<debit>-3056</debit>
+		<timestamp>2018-05-11 16:52:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>851340264</transactionId>
+		<accountId>657</accountId>
+		<credit/>
+		<debit>-3431</debit>
+		<timestamp>2018-05-27 02:05:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>206432294</transactionId>
+		<accountId>399</accountId>
+		<credit/>
+		<debit>-2353</debit>
+		<timestamp>2018-05-05 11:42:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>675186989</transactionId>
+		<accountId>297</accountId>
+		<credit/>
+		<debit>-4893</debit>
+		<timestamp>2018-05-24 14:30:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>820067969</transactionId>
+		<accountId>536</accountId>
+		<credit/>
+		<debit>-1817</debit>
+		<timestamp>2018-05-17 19:59:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>757763350</transactionId>
+		<accountId>579</accountId>
+		<credit/>
+		<debit>-1066</debit>
+		<timestamp>2018-05-08 10:17:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>949168844</transactionId>
+		<accountId>233</accountId>
+		<credit>221950.92</credit>
+		<debit/>
+		<timestamp>2018-05-12 22:53:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>275525379</transactionId>
+		<accountId>444</accountId>
+		<credit/>
+		<debit>-1462</debit>
+		<timestamp>2018-05-02 03:48:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>339841197</transactionId>
+		<accountId>310</accountId>
+		<credit/>
+		<debit>-4302</debit>
+		<timestamp>2018-05-23 13:44:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>741363822</transactionId>
+		<accountId>867</accountId>
+		<credit/>
+		<debit>-1076</debit>
+		<timestamp>2018-05-24 03:16:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>420922186</transactionId>
+		<accountId>318</accountId>
+		<credit/>
+		<debit>-4153</debit>
+		<timestamp>2018-05-08 16:30:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>223778718</transactionId>
+		<accountId>613</accountId>
+		<credit/>
+		<debit>-4123</debit>
+		<timestamp>2018-05-27 15:16:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>542744189</transactionId>
+		<accountId>276</accountId>
+		<credit/>
+		<debit>-68</debit>
+		<timestamp>2018-05-18 08:06:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>508932567</transactionId>
+		<accountId>163</accountId>
+		<credit>212683.62</credit>
+		<debit/>
+		<timestamp>2018-05-11 19:47:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>135763222</transactionId>
+		<accountId>940</accountId>
+		<credit/>
+		<debit>-3468</debit>
+		<timestamp>2018-05-01 23:12:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>294388074</transactionId>
+		<accountId>670</accountId>
+		<credit/>
+		<debit>-3087</debit>
+		<timestamp>2018-05-19 05:10:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>208381105</transactionId>
+		<accountId>6</accountId>
+		<credit>106026.54</credit>
+		<debit/>
+		<timestamp>2018-05-12 10:30:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>516168606</transactionId>
+		<accountId>366</accountId>
+		<credit/>
+		<debit>-1974</debit>
+		<timestamp>2018-05-23 22:34:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>868875232</transactionId>
+		<accountId>117</accountId>
+		<credit/>
+		<debit>-1622</debit>
+		<timestamp>2018-05-08 14:47:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>944403130</transactionId>
+		<accountId>870</accountId>
+		<credit>242437.98</credit>
+		<debit/>
+		<timestamp>2018-05-22 11:53:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>592716462</transactionId>
+		<accountId>754</accountId>
+		<credit/>
+		<debit>-3396</debit>
+		<timestamp>2018-05-15 19:37:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>118011651</transactionId>
+		<accountId>25</accountId>
+		<credit/>
+		<debit>-4351</debit>
+		<timestamp>2018-05-13 05:23:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>967699162</transactionId>
+		<accountId>690</accountId>
+		<credit/>
+		<debit>-4867</debit>
+		<timestamp>2018-05-20 07:35:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>180890130</transactionId>
+		<accountId>184</accountId>
+		<credit/>
+		<debit>-2726</debit>
+		<timestamp>2018-05-16 20:47:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>552953596</transactionId>
+		<accountId>714</accountId>
+		<credit/>
+		<debit>-501</debit>
+		<timestamp>2018-05-14 04:07:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>864608257</transactionId>
+		<accountId>223</accountId>
+		<credit/>
+		<debit>-1217</debit>
+		<timestamp>2018-05-22 14:27:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>375592554</transactionId>
+		<accountId>557</accountId>
+		<credit/>
+		<debit>-3436</debit>
+		<timestamp>2018-05-27 21:02:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>522071545</transactionId>
+		<accountId>424</accountId>
+		<credit/>
+		<debit>-680</debit>
+		<timestamp>2018-05-28 00:23:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>711790563</transactionId>
+		<accountId>592</accountId>
+		<credit>172926.87</credit>
+		<debit/>
+		<timestamp>2018-05-11 20:24:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>870902586</transactionId>
+		<accountId>738</accountId>
+		<credit/>
+		<debit>-2665</debit>
+		<timestamp>2018-05-18 02:22:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>587387343</transactionId>
+		<accountId>552</accountId>
+		<credit>81894.40</credit>
+		<debit/>
+		<timestamp>2018-05-19 21:36:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>896462805</transactionId>
+		<accountId>803</accountId>
+		<credit>3770.50</credit>
+		<debit/>
+		<timestamp>2018-05-02 17:15:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>683093794</transactionId>
+		<accountId>311</accountId>
+		<credit/>
+		<debit>-1099</debit>
+		<timestamp>2018-05-06 09:53:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>237433854</transactionId>
+		<accountId>465</accountId>
+		<credit/>
+		<debit>-2208</debit>
+		<timestamp>2018-05-10 16:04:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>470428130</transactionId>
+		<accountId>848</accountId>
+		<credit/>
+		<debit>-2590</debit>
+		<timestamp>2018-05-29 10:51:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>133111358</transactionId>
+		<accountId>145</accountId>
+		<credit/>
+		<debit>-825</debit>
+		<timestamp>2018-05-20 01:38:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>572838268</transactionId>
+		<accountId>310</accountId>
+		<credit>122966.30</credit>
+		<debit/>
+		<timestamp>2018-05-25 18:35:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>901378607</transactionId>
+		<accountId>569</accountId>
+		<credit/>
+		<debit>-3587</debit>
+		<timestamp>2018-05-05 03:34:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>854175857</transactionId>
+		<accountId>666</accountId>
+		<credit/>
+		<debit>-2106</debit>
+		<timestamp>2018-05-11 04:29:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>652499621</transactionId>
+		<accountId>694</accountId>
+		<credit>54532.66</credit>
+		<debit/>
+		<timestamp>2018-05-27 04:21:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>696439499</transactionId>
+		<accountId>337</accountId>
+		<credit/>
+		<debit>-154</debit>
+		<timestamp>2018-05-12 03:47:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>931549331</transactionId>
+		<accountId>824</accountId>
+		<credit/>
+		<debit>-2497</debit>
+		<timestamp>2018-05-15 13:43:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>613291113</transactionId>
+		<accountId>207</accountId>
+		<credit/>
+		<debit>-2957</debit>
+		<timestamp>2018-05-12 01:32:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>721078255</transactionId>
+		<accountId>22</accountId>
+		<credit/>
+		<debit>-3630</debit>
+		<timestamp>2018-05-02 17:24:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>141570481</transactionId>
+		<accountId>627</accountId>
+		<credit>34467.78</credit>
+		<debit/>
+		<timestamp>2018-05-06 02:17:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>683658931</transactionId>
+		<accountId>4</accountId>
+		<credit/>
+		<debit>-4132</debit>
+		<timestamp>2018-05-05 19:54:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>207121308</transactionId>
+		<accountId>398</accountId>
+		<credit/>
+		<debit>-4829</debit>
+		<timestamp>2018-05-16 21:29:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>857398302</transactionId>
+		<accountId>709</accountId>
+		<credit>14468.11</credit>
+		<debit/>
+		<timestamp>2018-05-18 19:53:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>383125886</transactionId>
+		<accountId>179</accountId>
+		<credit/>
+		<debit>-540</debit>
+		<timestamp>2018-05-10 20:33:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>901187438</transactionId>
+		<accountId>279</accountId>
+		<credit>192548.86</credit>
+		<debit/>
+		<timestamp>2018-05-04 17:42:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>351695872</transactionId>
+		<accountId>392</accountId>
+		<credit/>
+		<debit>-3606</debit>
+		<timestamp>2018-05-18 20:27:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>726687150</transactionId>
+		<accountId>888</accountId>
+		<credit/>
+		<debit>-2968</debit>
+		<timestamp>2018-05-19 03:16:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>718587766</transactionId>
+		<accountId>24</accountId>
+		<credit/>
+		<debit>-2514</debit>
+		<timestamp>2018-05-08 22:22:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>438059849</transactionId>
+		<accountId>283</accountId>
+		<credit/>
+		<debit>-536</debit>
+		<timestamp>2018-05-05 20:35:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>102289516</transactionId>
+		<accountId>636</accountId>
+		<credit/>
+		<debit>-433</debit>
+		<timestamp>2018-05-21 09:04:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>528341525</transactionId>
+		<accountId>817</accountId>
+		<credit/>
+		<debit>-2772</debit>
+		<timestamp>2018-05-29 00:11:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>431794930</transactionId>
+		<accountId>720</accountId>
+		<credit/>
+		<debit>-2283</debit>
+		<timestamp>2018-05-29 20:03:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>716649424</transactionId>
+		<accountId>701</accountId>
+		<credit/>
+		<debit>-1200</debit>
+		<timestamp>2018-05-28 11:19:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>294421362</transactionId>
+		<accountId>959</accountId>
+		<credit/>
+		<debit>-4989</debit>
+		<timestamp>2018-05-03 19:32:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>137538842</transactionId>
+		<accountId>50</accountId>
+		<credit>153942.44</credit>
+		<debit/>
+		<timestamp>2018-05-24 11:02:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>304048982</transactionId>
+		<accountId>197</accountId>
+		<credit>121212.76</credit>
+		<debit/>
+		<timestamp>2018-05-08 20:50:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>293216063</transactionId>
+		<accountId>748</accountId>
+		<credit/>
+		<debit>-4110</debit>
+		<timestamp>2018-05-03 03:32:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>478015267</transactionId>
+		<accountId>977</accountId>
+		<credit/>
+		<debit>-6</debit>
+		<timestamp>2018-05-29 09:06:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>895423686</transactionId>
+		<accountId>388</accountId>
+		<credit/>
+		<debit>-605</debit>
+		<timestamp>2018-05-17 09:06:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>943451423</transactionId>
+		<accountId>206</accountId>
+		<credit/>
+		<debit>-2831</debit>
+		<timestamp>2018-05-08 22:40:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>822382351</transactionId>
+		<accountId>208</accountId>
+		<credit/>
+		<debit>-4664</debit>
+		<timestamp>2018-05-04 08:11:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>613975368</transactionId>
+		<accountId>517</accountId>
+		<credit/>
+		<debit>-1982</debit>
+		<timestamp>2018-05-18 05:22:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>497831165</transactionId>
+		<accountId>493</accountId>
+		<credit/>
+		<debit>-4699</debit>
+		<timestamp>2018-05-20 03:06:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>598053201</transactionId>
+		<accountId>249</accountId>
+		<credit/>
+		<debit>-2618</debit>
+		<timestamp>2018-05-13 13:03:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>797071509</transactionId>
+		<accountId>578</accountId>
+		<credit>146122.72</credit>
+		<debit/>
+		<timestamp>2018-05-20 22:25:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>994988149</transactionId>
+		<accountId>550</accountId>
+		<credit/>
+		<debit>-389</debit>
+		<timestamp>2018-05-04 17:45:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>384719559</transactionId>
+		<accountId>949</accountId>
+		<credit/>
+		<debit>-4155</debit>
+		<timestamp>2018-05-19 23:51:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>430997295</transactionId>
+		<accountId>962</accountId>
+		<credit/>
+		<debit>-3614</debit>
+		<timestamp>2018-05-18 07:35:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>675116685</transactionId>
+		<accountId>88</accountId>
+		<credit/>
+		<debit>-3639</debit>
+		<timestamp>2018-05-21 21:21:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>432648902</transactionId>
+		<accountId>689</accountId>
+		<credit>68554.97</credit>
+		<debit/>
+		<timestamp>2018-05-03 18:08:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>320574784</transactionId>
+		<accountId>77</accountId>
+		<credit/>
+		<debit>-4241</debit>
+		<timestamp>2018-05-03 07:31:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>803826307</transactionId>
+		<accountId>4</accountId>
+		<credit/>
+		<debit>-572</debit>
+		<timestamp>2018-05-05 21:58:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>135310307</transactionId>
+		<accountId>181</accountId>
+		<credit>203956.90</credit>
+		<debit/>
+		<timestamp>2018-05-18 19:00:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>221707727</transactionId>
+		<accountId>612</accountId>
+		<credit/>
+		<debit>-3165</debit>
+		<timestamp>2018-05-16 18:17:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>201445607</transactionId>
+		<accountId>740</accountId>
+		<credit/>
+		<debit>-1408</debit>
+		<timestamp>2018-05-09 05:56:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>547480702</transactionId>
+		<accountId>24</accountId>
+		<credit/>
+		<debit>-2845</debit>
+		<timestamp>2018-05-26 18:22:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>706976738</transactionId>
+		<accountId>298</accountId>
+		<credit/>
+		<debit>-194</debit>
+		<timestamp>2018-05-25 02:46:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>450612401</transactionId>
+		<accountId>761</accountId>
+		<credit>85526.94</credit>
+		<debit/>
+		<timestamp>2018-05-15 17:14:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>971175005</transactionId>
+		<accountId>550</accountId>
+		<credit/>
+		<debit>-830</debit>
+		<timestamp>2018-05-09 05:15:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>156058792</transactionId>
+		<accountId>735</accountId>
+		<credit/>
+		<debit>-4348</debit>
+		<timestamp>2018-05-27 16:12:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>765552767</transactionId>
+		<accountId>997</accountId>
+		<credit/>
+		<debit>-3571</debit>
+		<timestamp>2018-05-22 17:48:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>180663071</transactionId>
+		<accountId>794</accountId>
+		<credit/>
+		<debit>-571</debit>
+		<timestamp>2018-05-19 19:29:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>356125768</transactionId>
+		<accountId>192</accountId>
+		<credit/>
+		<debit>-3616</debit>
+		<timestamp>2018-05-21 16:35:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>458137344</transactionId>
+		<accountId>272</accountId>
+		<credit>75749.16</credit>
+		<debit/>
+		<timestamp>2018-05-01 13:07:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>456782420</transactionId>
+		<accountId>130</accountId>
+		<credit/>
+		<debit>-3518</debit>
+		<timestamp>2018-05-12 15:58:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>695922318</transactionId>
+		<accountId>228</accountId>
+		<credit/>
+		<debit>-911</debit>
+		<timestamp>2018-05-02 05:15:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>991645847</transactionId>
+		<accountId>516</accountId>
+		<credit>64006.92</credit>
+		<debit/>
+		<timestamp>2018-05-22 02:49:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>147671623</transactionId>
+		<accountId>102</accountId>
+		<credit/>
+		<debit>-3649</debit>
+		<timestamp>2018-05-20 06:15:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>220687434</transactionId>
+		<accountId>340</accountId>
+		<credit/>
+		<debit>-1632</debit>
+		<timestamp>2018-05-05 13:37:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>764695904</transactionId>
+		<accountId>112</accountId>
+		<credit/>
+		<debit>-4046</debit>
+		<timestamp>2018-05-29 06:31:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>694578642</transactionId>
+		<accountId>77</accountId>
+		<credit/>
+		<debit>-2449</debit>
+		<timestamp>2018-05-18 22:06:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>249374681</transactionId>
+		<accountId>602</accountId>
+		<credit/>
+		<debit>-4135</debit>
+		<timestamp>2018-05-02 00:32:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>359357068</transactionId>
+		<accountId>902</accountId>
+		<credit/>
+		<debit>-2287</debit>
+		<timestamp>2018-05-21 08:13:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>584790580</transactionId>
+		<accountId>339</accountId>
+		<credit>27400.93</credit>
+		<debit/>
+		<timestamp>2018-05-10 12:51:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>225900466</transactionId>
+		<accountId>178</accountId>
+		<credit/>
+		<debit>-4863</debit>
+		<timestamp>2018-05-18 11:38:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>339597513</transactionId>
+		<accountId>873</accountId>
+		<credit>132353.32</credit>
+		<debit/>
+		<timestamp>2018-05-19 23:59:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>705150400</transactionId>
+		<accountId>870</accountId>
+		<credit/>
+		<debit>-4935</debit>
+		<timestamp>2018-05-09 19:53:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>701618943</transactionId>
+		<accountId>430</accountId>
+		<credit/>
+		<debit>-3677</debit>
+		<timestamp>2018-05-12 20:07:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>634650988</transactionId>
+		<accountId>444</accountId>
+		<credit/>
+		<debit>-4949</debit>
+		<timestamp>2018-05-26 03:35:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>506713785</transactionId>
+		<accountId>819</accountId>
+		<credit/>
+		<debit>-761</debit>
+		<timestamp>2018-05-13 09:08:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>229313645</transactionId>
+		<accountId>178</accountId>
+		<credit>148186.37</credit>
+		<debit/>
+		<timestamp>2018-05-21 07:27:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>362457712</transactionId>
+		<accountId>269</accountId>
+		<credit/>
+		<debit>-2433</debit>
+		<timestamp>2018-05-08 03:40:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>537983084</transactionId>
+		<accountId>483</accountId>
+		<credit>108698.78</credit>
+		<debit/>
+		<timestamp>2018-05-04 21:45:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>807078608</transactionId>
+		<accountId>930</accountId>
+		<credit/>
+		<debit>-1544</debit>
+		<timestamp>2018-05-06 14:53:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>510036803</transactionId>
+		<accountId>829</accountId>
+		<credit/>
+		<debit>-1846</debit>
+		<timestamp>2018-05-04 05:10:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>796130810</transactionId>
+		<accountId>575</accountId>
+		<credit>125780.02</credit>
+		<debit/>
+		<timestamp>2018-05-06 20:16:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>296484105</transactionId>
+		<accountId>204</accountId>
+		<credit/>
+		<debit>-3828</debit>
+		<timestamp>2018-05-20 13:57:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>685923546</transactionId>
+		<accountId>658</accountId>
+		<credit/>
+		<debit>-2063</debit>
+		<timestamp>2018-05-04 01:37:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>141616826</transactionId>
+		<accountId>488</accountId>
+		<credit/>
+		<debit>-2111</debit>
+		<timestamp>2018-05-01 18:14:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>429007630</transactionId>
+		<accountId>125</accountId>
+		<credit/>
+		<debit>-3073</debit>
+		<timestamp>2018-05-12 12:03:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>308795510</transactionId>
+		<accountId>62</accountId>
+		<credit>50902.10</credit>
+		<debit/>
+		<timestamp>2018-05-08 15:05:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>484839981</transactionId>
+		<accountId>214</accountId>
+		<credit/>
+		<debit>-1308</debit>
+		<timestamp>2018-05-05 00:34:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>903080595</transactionId>
+		<accountId>761</accountId>
+		<credit/>
+		<debit>-2915</debit>
+		<timestamp>2018-05-20 17:41:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>162435286</transactionId>
+		<accountId>960</accountId>
+		<credit/>
+		<debit>-1812</debit>
+		<timestamp>2018-05-13 21:50:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>444381878</transactionId>
+		<accountId>429</accountId>
+		<credit/>
+		<debit>-2944</debit>
+		<timestamp>2018-05-18 11:35:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>952884252</transactionId>
+		<accountId>462</accountId>
+		<credit/>
+		<debit>-4943</debit>
+		<timestamp>2018-05-04 13:44:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>886241325</transactionId>
+		<accountId>580</accountId>
+		<credit/>
+		<debit>-4298</debit>
+		<timestamp>2018-05-05 07:45:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>738345722</transactionId>
+		<accountId>522</accountId>
+		<credit>51585.80</credit>
+		<debit/>
+		<timestamp>2018-05-26 09:29:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>718948256</transactionId>
+		<accountId>880</accountId>
+		<credit/>
+		<debit>-3145</debit>
+		<timestamp>2018-05-08 19:39:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>284240994</transactionId>
+		<accountId>926</accountId>
+		<credit/>
+		<debit>-1601</debit>
+		<timestamp>2018-05-12 23:09:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>505923009</transactionId>
+		<accountId>76</accountId>
+		<credit/>
+		<debit>-1543</debit>
+		<timestamp>2018-05-09 08:45:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>619758398</transactionId>
+		<accountId>864</accountId>
+		<credit/>
+		<debit>-1902</debit>
+		<timestamp>2018-05-11 00:20:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>297820556</transactionId>
+		<accountId>502</accountId>
+		<credit/>
+		<debit>-1229</debit>
+		<timestamp>2018-05-28 18:08:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>331669828</transactionId>
+		<accountId>790</accountId>
+		<credit/>
+		<debit>-1437</debit>
+		<timestamp>2018-05-03 00:50:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>329457951</transactionId>
+		<accountId>941</accountId>
+		<credit/>
+		<debit>-590</debit>
+		<timestamp>2018-05-16 00:33:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>530846220</transactionId>
+		<accountId>391</accountId>
+		<credit/>
+		<debit>-4466</debit>
+		<timestamp>2018-05-28 23:34:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>248872042</transactionId>
+		<accountId>713</accountId>
+		<credit/>
+		<debit>-4972</debit>
+		<timestamp>2018-05-05 02:45:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>359552270</transactionId>
+		<accountId>186</accountId>
+		<credit/>
+		<debit>-716</debit>
+		<timestamp>2018-05-21 06:21:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>281178644</transactionId>
+		<accountId>49</accountId>
+		<credit/>
+		<debit>-4784</debit>
+		<timestamp>2018-05-20 18:41:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>369133744</transactionId>
+		<accountId>153</accountId>
+		<credit/>
+		<debit>-2703</debit>
+		<timestamp>2018-05-22 03:14:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>880751510</transactionId>
+		<accountId>314</accountId>
+		<credit/>
+		<debit>-888</debit>
+		<timestamp>2018-05-12 11:31:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>444687778</transactionId>
+		<accountId>383</accountId>
+		<credit/>
+		<debit>-2397</debit>
+		<timestamp>2018-05-08 12:26:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>616968036</transactionId>
+		<accountId>858</accountId>
+		<credit/>
+		<debit>-2000</debit>
+		<timestamp>2018-05-23 14:44:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>112969925</transactionId>
+		<accountId>996</accountId>
+		<credit>180497.05</credit>
+		<debit/>
+		<timestamp>2018-05-11 15:40:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>448595502</transactionId>
+		<accountId>347</accountId>
+		<credit>71853.89</credit>
+		<debit/>
+		<timestamp>2018-05-11 17:10:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>602299167</transactionId>
+		<accountId>631</accountId>
+		<credit/>
+		<debit>-1708</debit>
+		<timestamp>2018-05-11 19:58:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>537256879</transactionId>
+		<accountId>446</accountId>
+		<credit/>
+		<debit>-2666</debit>
+		<timestamp>2018-05-29 03:52:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>575788409</transactionId>
+		<accountId>589</accountId>
+		<credit/>
+		<debit>-383</debit>
+		<timestamp>2018-05-02 18:26:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>555130433</transactionId>
+		<accountId>89</accountId>
+		<credit>137790.58</credit>
+		<debit/>
+		<timestamp>2018-05-25 08:41:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>177441882</transactionId>
+		<accountId>551</accountId>
+		<credit>58635.92</credit>
+		<debit/>
+		<timestamp>2018-05-13 01:54:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>155079322</transactionId>
+		<accountId>956</accountId>
+		<credit>177651.72</credit>
+		<debit/>
+		<timestamp>2018-05-04 08:45:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>770178885</transactionId>
+		<accountId>413</accountId>
+		<credit/>
+		<debit>-608</debit>
+		<timestamp>2018-05-28 05:32:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>521696615</transactionId>
+		<accountId>111</accountId>
+		<credit>13760.09</credit>
+		<debit/>
+		<timestamp>2018-05-20 07:26:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>700670174</transactionId>
+		<accountId>523</accountId>
+		<credit/>
+		<debit>-3830</debit>
+		<timestamp>2018-05-09 05:08:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>926343726</transactionId>
+		<accountId>614</accountId>
+		<credit/>
+		<debit>-2185</debit>
+		<timestamp>2018-05-13 22:53:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>257434493</transactionId>
+		<accountId>29</accountId>
+		<credit/>
+		<debit>-1351</debit>
+		<timestamp>2018-05-10 21:37:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>362474585</transactionId>
+		<accountId>587</accountId>
+		<credit/>
+		<debit>-1937</debit>
+		<timestamp>2018-05-03 20:49:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>846449632</transactionId>
+		<accountId>695</accountId>
+		<credit>148424.49</credit>
+		<debit/>
+		<timestamp>2018-05-13 14:49:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>104142914</transactionId>
+		<accountId>35</accountId>
+		<credit>50078.48</credit>
+		<debit/>
+		<timestamp>2018-05-02 20:39:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>745913549</transactionId>
+		<accountId>332</accountId>
+		<credit/>
+		<debit>-4802</debit>
+		<timestamp>2018-05-08 18:10:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>289703743</transactionId>
+		<accountId>164</accountId>
+		<credit/>
+		<debit>-147</debit>
+		<timestamp>2018-05-20 05:33:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>337756647</transactionId>
+		<accountId>751</accountId>
+		<credit>198682.03</credit>
+		<debit/>
+		<timestamp>2018-05-26 02:30:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>800722233</transactionId>
+		<accountId>800</accountId>
+		<credit>142645.42</credit>
+		<debit/>
+		<timestamp>2018-05-08 04:38:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>364872266</transactionId>
+		<accountId>955</accountId>
+		<credit/>
+		<debit>-3199</debit>
+		<timestamp>2018-05-26 15:59:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>959077028</transactionId>
+		<accountId>150</accountId>
+		<credit>60740.74</credit>
+		<debit/>
+		<timestamp>2018-05-09 21:12:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>690627104</transactionId>
+		<accountId>348</accountId>
+		<credit/>
+		<debit>-2085</debit>
+		<timestamp>2018-05-10 23:18:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>830494871</transactionId>
+		<accountId>393</accountId>
+		<credit/>
+		<debit>-4549</debit>
+		<timestamp>2018-05-03 03:37:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>245766295</transactionId>
+		<accountId>399</accountId>
+		<credit>156056.64</credit>
+		<debit/>
+		<timestamp>2018-05-28 16:42:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>780418045</transactionId>
+		<accountId>581</accountId>
+		<credit/>
+		<debit>-2356</debit>
+		<timestamp>2018-05-20 06:55:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>834049389</transactionId>
+		<accountId>485</accountId>
+		<credit>101676.41</credit>
+		<debit/>
+		<timestamp>2018-05-06 22:20:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>120469890</transactionId>
+		<accountId>656</accountId>
+		<credit>234232.53</credit>
+		<debit/>
+		<timestamp>2018-05-28 09:59:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>272714098</transactionId>
+		<accountId>743</accountId>
+		<credit/>
+		<debit>-4309</debit>
+		<timestamp>2018-05-17 09:40:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>452200705</transactionId>
+		<accountId>881</accountId>
+		<credit/>
+		<debit>-3574</debit>
+		<timestamp>2018-05-13 05:50:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>347500298</transactionId>
+		<accountId>662</accountId>
+		<credit/>
+		<debit>-3998</debit>
+		<timestamp>2018-05-14 14:29:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>716826416</transactionId>
+		<accountId>948</accountId>
+		<credit>131475.09</credit>
+		<debit/>
+		<timestamp>2018-05-18 13:29:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>583105719</transactionId>
+		<accountId>654</accountId>
+		<credit/>
+		<debit>-4829</debit>
+		<timestamp>2018-05-08 21:04:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>577568319</transactionId>
+		<accountId>956</accountId>
+		<credit/>
+		<debit>-3626</debit>
+		<timestamp>2018-05-15 15:25:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>423262656</transactionId>
+		<accountId>486</accountId>
+		<credit/>
+		<debit>-3629</debit>
+		<timestamp>2018-05-19 02:05:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>425232780</transactionId>
+		<accountId>200</accountId>
+		<credit>200489.50</credit>
+		<debit/>
+		<timestamp>2018-05-20 07:36:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>834488084</transactionId>
+		<accountId>824</accountId>
+		<credit/>
+		<debit>-1762</debit>
+		<timestamp>2018-05-21 22:24:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>861825164</transactionId>
+		<accountId>393</accountId>
+		<credit/>
+		<debit>-3888</debit>
+		<timestamp>2018-05-05 10:19:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>881884584</transactionId>
+		<accountId>52</accountId>
+		<credit/>
+		<debit>-1620</debit>
+		<timestamp>2018-05-06 07:03:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>555163348</transactionId>
+		<accountId>667</accountId>
+		<credit/>
+		<debit>-3181</debit>
+		<timestamp>2018-05-23 11:38:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>522241442</transactionId>
+		<accountId>504</accountId>
+		<credit>203289.23</credit>
+		<debit/>
+		<timestamp>2018-05-06 22:42:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>738254654</transactionId>
+		<accountId>977</accountId>
+		<credit/>
+		<debit>-1867</debit>
+		<timestamp>2018-05-13 14:44:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>717208779</transactionId>
+		<accountId>674</accountId>
+		<credit>209015.68</credit>
+		<debit/>
+		<timestamp>2018-05-07 19:46:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>915610016</transactionId>
+		<accountId>821</accountId>
+		<credit/>
+		<debit>-2556</debit>
+		<timestamp>2018-05-02 09:38:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>592804767</transactionId>
+		<accountId>116</accountId>
+		<credit/>
+		<debit>-4238</debit>
+		<timestamp>2018-05-25 13:19:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>903705443</transactionId>
+		<accountId>333</accountId>
+		<credit/>
+		<debit>-151</debit>
+		<timestamp>2018-05-09 01:16:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>416614762</transactionId>
+		<accountId>69</accountId>
+		<credit/>
+		<debit>-1285</debit>
+		<timestamp>2018-05-04 13:34:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>467607790</transactionId>
+		<accountId>422</accountId>
+		<credit/>
+		<debit>-3253</debit>
+		<timestamp>2018-05-02 04:00:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>534566350</transactionId>
+		<accountId>423</accountId>
+		<credit/>
+		<debit>-3472</debit>
+		<timestamp>2018-05-02 11:08:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>659780471</transactionId>
+		<accountId>20</accountId>
+		<credit/>
+		<debit>-3950</debit>
+		<timestamp>2018-05-09 02:48:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>506174568</transactionId>
+		<accountId>482</accountId>
+		<credit/>
+		<debit>-1331</debit>
+		<timestamp>2018-05-21 12:12:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>100104876</transactionId>
+		<accountId>384</accountId>
+		<credit/>
+		<debit>-705</debit>
+		<timestamp>2018-05-11 21:37:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>105550218</transactionId>
+		<accountId>404</accountId>
+		<credit>35644.19</credit>
+		<debit/>
+		<timestamp>2018-05-25 06:30:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>771162972</transactionId>
+		<accountId>534</accountId>
+		<credit/>
+		<debit>-2430</debit>
+		<timestamp>2018-05-08 15:21:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>720839361</transactionId>
+		<accountId>651</accountId>
+		<credit/>
+		<debit>-1146</debit>
+		<timestamp>2018-05-06 10:06:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>453375306</transactionId>
+		<accountId>917</accountId>
+		<credit/>
+		<debit>-115</debit>
+		<timestamp>2018-05-02 06:51:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>914859117</transactionId>
+		<accountId>628</accountId>
+		<credit/>
+		<debit>-2990</debit>
+		<timestamp>2018-05-28 21:06:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>217134225</transactionId>
+		<accountId>275</accountId>
+		<credit>28411.44</credit>
+		<debit/>
+		<timestamp>2018-05-12 13:18:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>587758214</transactionId>
+		<accountId>172</accountId>
+		<credit/>
+		<debit>-4471</debit>
+		<timestamp>2018-05-17 12:38:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>102072909</transactionId>
+		<accountId>189</accountId>
+		<credit/>
+		<debit>-1529</debit>
+		<timestamp>2018-05-14 14:52:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>709169342</transactionId>
+		<accountId>63</accountId>
+		<credit/>
+		<debit>-76</debit>
+		<timestamp>2018-05-04 10:30:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>307130888</transactionId>
+		<accountId>481</accountId>
+		<credit>106101.28</credit>
+		<debit/>
+		<timestamp>2018-05-26 22:30:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>561250341</transactionId>
+		<accountId>791</accountId>
+		<credit/>
+		<debit>-2884</debit>
+		<timestamp>2018-05-09 07:02:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>795046138</transactionId>
+		<accountId>488</accountId>
+		<credit>183393.55</credit>
+		<debit/>
+		<timestamp>2018-05-14 09:03:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>642147533</transactionId>
+		<accountId>112</accountId>
+		<credit/>
+		<debit>-1276</debit>
+		<timestamp>2018-05-27 04:31:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>156970272</transactionId>
+		<accountId>821</accountId>
+		<credit/>
+		<debit>-242</debit>
+		<timestamp>2018-05-13 19:22:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>238788719</transactionId>
+		<accountId>553</accountId>
+		<credit/>
+		<debit>-4835</debit>
+		<timestamp>2018-05-20 17:52:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>466447209</transactionId>
+		<accountId>2</accountId>
+		<credit/>
+		<debit>-505</debit>
+		<timestamp>2018-05-27 10:37:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>379463077</transactionId>
+		<accountId>961</accountId>
+		<credit/>
+		<debit>-2070</debit>
+		<timestamp>2018-05-08 18:11:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>209493691</transactionId>
+		<accountId>3</accountId>
+		<credit>140066.15</credit>
+		<debit/>
+		<timestamp>2018-05-29 03:25:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>979315803</transactionId>
+		<accountId>533</accountId>
+		<credit>47976.01</credit>
+		<debit/>
+		<timestamp>2018-05-03 11:14:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>812294475</transactionId>
+		<accountId>696</accountId>
+		<credit/>
+		<debit>-3837</debit>
+		<timestamp>2018-05-10 01:01:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>194728055</transactionId>
+		<accountId>732</accountId>
+		<credit/>
+		<debit>-217</debit>
+		<timestamp>2018-05-15 05:51:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>976783817</transactionId>
+		<accountId>357</accountId>
+		<credit/>
+		<debit>-2581</debit>
+		<timestamp>2018-05-01 15:18:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>566350124</transactionId>
+		<accountId>341</accountId>
+		<credit>3628.59</credit>
+		<debit/>
+		<timestamp>2018-05-16 22:38:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>487763750</transactionId>
+		<accountId>921</accountId>
+		<credit/>
+		<debit>-4160</debit>
+		<timestamp>2018-05-28 11:25:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>155199807</transactionId>
+		<accountId>979</accountId>
+		<credit>28378.87</credit>
+		<debit/>
+		<timestamp>2018-05-26 06:19:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>984096363</transactionId>
+		<accountId>627</accountId>
+		<credit/>
+		<debit>-4912</debit>
+		<timestamp>2018-05-02 07:13:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>179339112</transactionId>
+		<accountId>279</accountId>
+		<credit/>
+		<debit>-2390</debit>
+		<timestamp>2018-05-16 07:07:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>920756835</transactionId>
+		<accountId>805</accountId>
+		<credit>85495.44</credit>
+		<debit/>
+		<timestamp>2018-05-28 23:42:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>119843267</transactionId>
+		<accountId>709</accountId>
+		<credit/>
+		<debit>-3008</debit>
+		<timestamp>2018-05-14 13:43:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>511517657</transactionId>
+		<accountId>859</accountId>
+		<credit/>
+		<debit>-422</debit>
+		<timestamp>2018-05-14 10:15:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>932696153</transactionId>
+		<accountId>26</accountId>
+		<credit>129536.35</credit>
+		<debit/>
+		<timestamp>2018-05-04 12:56:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>593877253</transactionId>
+		<accountId>798</accountId>
+		<credit/>
+		<debit>-1517</debit>
+		<timestamp>2018-05-02 15:54:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>591083510</transactionId>
+		<accountId>335</accountId>
+		<credit/>
+		<debit>-3835</debit>
+		<timestamp>2018-05-07 11:38:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>772127001</transactionId>
+		<accountId>750</accountId>
+		<credit/>
+		<debit>-752</debit>
+		<timestamp>2018-05-08 15:35:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>666291156</transactionId>
+		<accountId>306</accountId>
+		<credit/>
+		<debit>-895</debit>
+		<timestamp>2018-05-07 12:18:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>148910935</transactionId>
+		<accountId>19</accountId>
+		<credit/>
+		<debit>-1138</debit>
+		<timestamp>2018-05-28 21:43:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>715733934</transactionId>
+		<accountId>408</accountId>
+		<credit/>
+		<debit>-1689</debit>
+		<timestamp>2018-05-05 02:32:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>632203560</transactionId>
+		<accountId>554</accountId>
+		<credit/>
+		<debit>-134</debit>
+		<timestamp>2018-05-29 20:56:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>225213115</transactionId>
+		<accountId>22</accountId>
+		<credit/>
+		<debit>-3205</debit>
+		<timestamp>2018-05-07 08:13:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>443777531</transactionId>
+		<accountId>662</accountId>
+		<credit/>
+		<debit>-427</debit>
+		<timestamp>2018-05-19 04:05:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>194887678</transactionId>
+		<accountId>611</accountId>
+		<credit>26784.42</credit>
+		<debit/>
+		<timestamp>2018-05-17 20:04:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>504469558</transactionId>
+		<accountId>88</accountId>
+		<credit/>
+		<debit>-1807</debit>
+		<timestamp>2018-05-04 07:20:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>346419061</transactionId>
+		<accountId>14</accountId>
+		<credit/>
+		<debit>-1095</debit>
+		<timestamp>2018-05-03 11:26:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>919505102</transactionId>
+		<accountId>965</accountId>
+		<credit/>
+		<debit>-3659</debit>
+		<timestamp>2018-05-09 18:13:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>977369828</transactionId>
+		<accountId>255</accountId>
+		<credit>80650.04</credit>
+		<debit/>
+		<timestamp>2018-05-09 20:18:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>557889672</transactionId>
+		<accountId>45</accountId>
+		<credit/>
+		<debit>-260</debit>
+		<timestamp>2018-05-26 18:06:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>635772951</transactionId>
+		<accountId>774</accountId>
+		<credit/>
+		<debit>-2098</debit>
+		<timestamp>2018-05-08 06:37:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>336216489</transactionId>
+		<accountId>535</accountId>
+		<credit/>
+		<debit>-4083</debit>
+		<timestamp>2018-05-27 15:07:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>146141019</transactionId>
+		<accountId>502</accountId>
+		<credit/>
+		<debit>-1954</debit>
+		<timestamp>2018-05-28 21:37:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>988484001</transactionId>
+		<accountId>539</accountId>
+		<credit/>
+		<debit>-2922</debit>
+		<timestamp>2018-05-22 04:53:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>776266501</transactionId>
+		<accountId>931</accountId>
+		<credit/>
+		<debit>-4704</debit>
+		<timestamp>2018-05-05 14:13:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>705863328</transactionId>
+		<accountId>821</accountId>
+		<credit/>
+		<debit>-2187</debit>
+		<timestamp>2018-05-26 09:25:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>100565567</transactionId>
+		<accountId>618</accountId>
+		<credit>130728.77</credit>
+		<debit/>
+		<timestamp>2018-05-19 19:46:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>580181462</transactionId>
+		<accountId>706</accountId>
+		<credit/>
+		<debit>-2334</debit>
+		<timestamp>2018-05-09 10:29:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>438943599</transactionId>
+		<accountId>519</accountId>
+		<credit/>
+		<debit>-3746</debit>
+		<timestamp>2018-05-20 22:31:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>107122382</transactionId>
+		<accountId>590</accountId>
+		<credit/>
+		<debit>-901</debit>
+		<timestamp>2018-05-15 20:06:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>121333875</transactionId>
+		<accountId>155</accountId>
+		<credit/>
+		<debit>-3360</debit>
+		<timestamp>2018-05-27 10:10:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>333700395</transactionId>
+		<accountId>539</accountId>
+		<credit>85520.47</credit>
+		<debit/>
+		<timestamp>2018-05-21 01:00:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>976830414</transactionId>
+		<accountId>759</accountId>
+		<credit/>
+		<debit>-389</debit>
+		<timestamp>2018-05-10 19:14:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>482451810</transactionId>
+		<accountId>806</accountId>
+		<credit/>
+		<debit>-448</debit>
+		<timestamp>2018-05-08 05:16:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>192952680</transactionId>
+		<accountId>211</accountId>
+		<credit/>
+		<debit>-497</debit>
+		<timestamp>2018-05-26 13:23:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>873026345</transactionId>
+		<accountId>403</accountId>
+		<credit/>
+		<debit>-2033</debit>
+		<timestamp>2018-05-01 03:32:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>788293445</transactionId>
+		<accountId>818</accountId>
+		<credit>244752.80</credit>
+		<debit/>
+		<timestamp>2018-05-14 12:44:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>162323217</transactionId>
+		<accountId>682</accountId>
+		<credit/>
+		<debit>-4846</debit>
+		<timestamp>2018-05-06 16:10:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>182368034</transactionId>
+		<accountId>980</accountId>
+		<credit/>
+		<debit>-4389</debit>
+		<timestamp>2018-05-11 09:27:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>625316511</transactionId>
+		<accountId>874</accountId>
+		<credit/>
+		<debit>-3829</debit>
+		<timestamp>2018-05-17 08:46:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>762767034</transactionId>
+		<accountId>308</accountId>
+		<credit>171064.78</credit>
+		<debit/>
+		<timestamp>2018-05-22 14:38:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>858532083</transactionId>
+		<accountId>399</accountId>
+		<credit/>
+		<debit>-1267</debit>
+		<timestamp>2018-05-18 08:08:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>580984464</transactionId>
+		<accountId>804</accountId>
+		<credit/>
+		<debit>-76</debit>
+		<timestamp>2018-05-03 22:23:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>595812110</transactionId>
+		<accountId>378</accountId>
+		<credit/>
+		<debit>-4</debit>
+		<timestamp>2018-05-27 16:00:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>394624524</transactionId>
+		<accountId>829</accountId>
+		<credit/>
+		<debit>-2688</debit>
+		<timestamp>2018-05-11 15:10:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>338412838</transactionId>
+		<accountId>308</accountId>
+		<credit/>
+		<debit>-3154</debit>
+		<timestamp>2018-05-23 11:49:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>991189687</transactionId>
+		<accountId>398</accountId>
+		<credit/>
+		<debit>-4508</debit>
+		<timestamp>2018-05-05 18:55:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>770028130</transactionId>
+		<accountId>907</accountId>
+		<credit/>
+		<debit>-2788</debit>
+		<timestamp>2018-05-05 08:08:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>687364247</transactionId>
+		<accountId>284</accountId>
+		<credit>246446.34</credit>
+		<debit/>
+		<timestamp>2018-05-27 11:54:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>289549268</transactionId>
+		<accountId>434</accountId>
+		<credit/>
+		<debit>-3287</debit>
+		<timestamp>2018-05-18 06:03:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>566703750</transactionId>
+		<accountId>338</accountId>
+		<credit/>
+		<debit>-4820</debit>
+		<timestamp>2018-05-26 15:36:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>466137312</transactionId>
+		<accountId>946</accountId>
+		<credit/>
+		<debit>-2706</debit>
+		<timestamp>2018-05-14 23:37:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>223327406</transactionId>
+		<accountId>810</accountId>
+		<credit/>
+		<debit>-4486</debit>
+		<timestamp>2018-05-24 17:38:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>248754695</transactionId>
+		<accountId>439</accountId>
+		<credit/>
+		<debit>-4395</debit>
+		<timestamp>2018-05-08 20:21:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>308198916</transactionId>
+		<accountId>583</accountId>
+		<credit/>
+		<debit>-2737</debit>
+		<timestamp>2018-05-10 12:25:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>206109215</transactionId>
+		<accountId>892</accountId>
+		<credit/>
+		<debit>-1257</debit>
+		<timestamp>2018-05-20 05:38:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>159359702</transactionId>
+		<accountId>97</accountId>
+		<credit>195143.90</credit>
+		<debit/>
+		<timestamp>2018-05-09 05:52:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>840147009</transactionId>
+		<accountId>42</accountId>
+		<credit/>
+		<debit>-3096</debit>
+		<timestamp>2018-05-23 05:39:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>659938679</transactionId>
+		<accountId>81</accountId>
+		<credit/>
+		<debit>-4554</debit>
+		<timestamp>2018-05-03 20:29:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>123075569</transactionId>
+		<accountId>332</accountId>
+		<credit/>
+		<debit>-3347</debit>
+		<timestamp>2018-05-01 18:46:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>902790950</transactionId>
+		<accountId>737</accountId>
+		<credit/>
+		<debit>-519</debit>
+		<timestamp>2018-05-16 17:30:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>434965732</transactionId>
+		<accountId>196</accountId>
+		<credit/>
+		<debit>-4372</debit>
+		<timestamp>2018-05-10 03:38:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>444353776</transactionId>
+		<accountId>393</accountId>
+		<credit>226851.90</credit>
+		<debit/>
+		<timestamp>2018-05-10 05:59:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>346631051</transactionId>
+		<accountId>49</accountId>
+		<credit/>
+		<debit>-4834</debit>
+		<timestamp>2018-05-06 06:02:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>491573031</transactionId>
+		<accountId>571</accountId>
+		<credit/>
+		<debit>-2602</debit>
+		<timestamp>2018-05-29 21:07:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>642734882</transactionId>
+		<accountId>418</accountId>
+		<credit>7011.64</credit>
+		<debit/>
+		<timestamp>2018-05-07 21:00:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>668824883</transactionId>
+		<accountId>452</accountId>
+		<credit/>
+		<debit>-3861</debit>
+		<timestamp>2018-05-04 02:09:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>879169890</transactionId>
+		<accountId>998</accountId>
+		<credit/>
+		<debit>-4278</debit>
+		<timestamp>2018-05-05 23:11:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>892691179</transactionId>
+		<accountId>158</accountId>
+		<credit>71774.21</credit>
+		<debit/>
+		<timestamp>2018-05-19 06:16:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>969565895</transactionId>
+		<accountId>689</accountId>
+		<credit/>
+		<debit>-1902</debit>
+		<timestamp>2018-05-14 07:01:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>594830851</transactionId>
+		<accountId>909</accountId>
+		<credit/>
+		<debit>-2114</debit>
+		<timestamp>2018-05-08 06:49:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>469327591</transactionId>
+		<accountId>221</accountId>
+		<credit/>
+		<debit>-580</debit>
+		<timestamp>2018-05-11 00:46:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>226139146</transactionId>
+		<accountId>860</accountId>
+		<credit/>
+		<debit>-1513</debit>
+		<timestamp>2018-05-22 04:34:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>919831323</transactionId>
+		<accountId>15</accountId>
+		<credit/>
+		<debit>-3870</debit>
+		<timestamp>2018-05-29 06:25:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>921613474</transactionId>
+		<accountId>212</accountId>
+		<credit/>
+		<debit>-3724</debit>
+		<timestamp>2018-05-02 02:57:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>382973556</transactionId>
+		<accountId>702</accountId>
+		<credit/>
+		<debit>-1363</debit>
+		<timestamp>2018-05-27 16:12:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>377037572</transactionId>
+		<accountId>668</accountId>
+		<credit/>
+		<debit>-3479</debit>
+		<timestamp>2018-05-21 14:00:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>283903734</transactionId>
+		<accountId>292</accountId>
+		<credit/>
+		<debit>-4380</debit>
+		<timestamp>2018-05-09 14:41:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>616925795</transactionId>
+		<accountId>611</accountId>
+		<credit/>
+		<debit>-3050</debit>
+		<timestamp>2018-05-15 03:45:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>890416142</transactionId>
+		<accountId>647</accountId>
+		<credit/>
+		<debit>-3136</debit>
+		<timestamp>2018-05-01 18:27:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>370341133</transactionId>
+		<accountId>45</accountId>
+		<credit/>
+		<debit>-2153</debit>
+		<timestamp>2018-05-19 07:43:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>773760943</transactionId>
+		<accountId>733</accountId>
+		<credit/>
+		<debit>-2555</debit>
+		<timestamp>2018-05-01 16:16:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>545977955</transactionId>
+		<accountId>780</accountId>
+		<credit/>
+		<debit>-858</debit>
+		<timestamp>2018-05-13 16:08:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>542549279</transactionId>
+		<accountId>376</accountId>
+		<credit/>
+		<debit>-4310</debit>
+		<timestamp>2018-05-13 17:50:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>984162412</transactionId>
+		<accountId>507</accountId>
+		<credit/>
+		<debit>-1450</debit>
+		<timestamp>2018-05-01 23:52:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>252033943</transactionId>
+		<accountId>362</accountId>
+		<credit/>
+		<debit>-2978</debit>
+		<timestamp>2018-05-01 05:33:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>822053686</transactionId>
+		<accountId>733</accountId>
+		<credit/>
+		<debit>-1287</debit>
+		<timestamp>2018-05-11 22:11:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>247308553</transactionId>
+		<accountId>194</accountId>
+		<credit/>
+		<debit>-1159</debit>
+		<timestamp>2018-05-09 10:23:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>658302833</transactionId>
+		<accountId>264</accountId>
+		<credit/>
+		<debit>-1284</debit>
+		<timestamp>2018-05-15 09:34:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>432666376</transactionId>
+		<accountId>666</accountId>
+		<credit/>
+		<debit>-2599</debit>
+		<timestamp>2018-05-18 02:41:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>384295455</transactionId>
+		<accountId>328</accountId>
+		<credit/>
+		<debit>-613</debit>
+		<timestamp>2018-05-19 03:00:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>328391423</transactionId>
+		<accountId>401</accountId>
+		<credit/>
+		<debit>-3004</debit>
+		<timestamp>2018-05-21 14:21:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>397075952</transactionId>
+		<accountId>792</accountId>
+		<credit/>
+		<debit>-2156</debit>
+		<timestamp>2018-05-28 17:30:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>302385031</transactionId>
+		<accountId>418</accountId>
+		<credit/>
+		<debit>-3975</debit>
+		<timestamp>2018-05-19 06:29:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>552665669</transactionId>
+		<accountId>517</accountId>
+		<credit/>
+		<debit>-2296</debit>
+		<timestamp>2018-05-21 17:44:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>693541222</transactionId>
+		<accountId>503</accountId>
+		<credit>164713.75</credit>
+		<debit/>
+		<timestamp>2018-05-27 20:35:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>490724430</transactionId>
+		<accountId>801</accountId>
+		<credit/>
+		<debit>-4163</debit>
+		<timestamp>2018-05-04 11:22:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>805028922</transactionId>
+		<accountId>270</accountId>
+		<credit/>
+		<debit>-3456</debit>
+		<timestamp>2018-05-22 02:28:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>127855096</transactionId>
+		<accountId>687</accountId>
+		<credit/>
+		<debit>-362</debit>
+		<timestamp>2018-05-29 10:05:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>898067939</transactionId>
+		<accountId>980</accountId>
+		<credit/>
+		<debit>-2097</debit>
+		<timestamp>2018-05-27 16:19:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>934334760</transactionId>
+		<accountId>704</accountId>
+		<credit>86920.96</credit>
+		<debit/>
+		<timestamp>2018-05-08 17:09:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>454966136</transactionId>
+		<accountId>67</accountId>
+		<credit/>
+		<debit>-3535</debit>
+		<timestamp>2018-05-01 04:15:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>575832035</transactionId>
+		<accountId>43</accountId>
+		<credit/>
+		<debit>-3929</debit>
+		<timestamp>2018-05-25 22:42:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>850666647</transactionId>
+		<accountId>600</accountId>
+		<credit>138730.63</credit>
+		<debit/>
+		<timestamp>2018-05-21 13:18:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>981568328</transactionId>
+		<accountId>449</accountId>
+		<credit/>
+		<debit>-2735</debit>
+		<timestamp>2018-05-26 05:56:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>363526802</transactionId>
+		<accountId>868</accountId>
+		<credit/>
+		<debit>-1281</debit>
+		<timestamp>2018-05-09 10:01:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>787930689</transactionId>
+		<accountId>197</accountId>
+		<credit/>
+		<debit>-24</debit>
+		<timestamp>2018-05-19 22:17:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>511772634</transactionId>
+		<accountId>633</accountId>
+		<credit>69241.75</credit>
+		<debit/>
+		<timestamp>2018-05-24 05:41:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>643673221</transactionId>
+		<accountId>323</accountId>
+		<credit/>
+		<debit>-404</debit>
+		<timestamp>2018-05-10 08:27:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>832738569</transactionId>
+		<accountId>820</accountId>
+		<credit/>
+		<debit>-1292</debit>
+		<timestamp>2018-05-28 04:15:13</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>818127185</transactionId>
+		<accountId>602</accountId>
+		<credit>190000.73</credit>
+		<debit/>
+		<timestamp>2018-05-02 21:54:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>924725665</transactionId>
+		<accountId>12</accountId>
+		<credit/>
+		<debit>-1595</debit>
+		<timestamp>2018-05-16 10:59:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>425970089</transactionId>
+		<accountId>320</accountId>
+		<credit/>
+		<debit>-3516</debit>
+		<timestamp>2018-05-18 06:46:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>919616512</transactionId>
+		<accountId>444</accountId>
+		<credit/>
+		<debit>-2974</debit>
+		<timestamp>2018-05-05 10:30:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>420010771</transactionId>
+		<accountId>359</accountId>
+		<credit/>
+		<debit>-3518</debit>
+		<timestamp>2018-05-11 01:55:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>302668641</transactionId>
+		<accountId>578</accountId>
+		<credit>139607.71</credit>
+		<debit/>
+		<timestamp>2018-05-03 07:33:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>391709753</transactionId>
+		<accountId>842</accountId>
+		<credit>165285.16</credit>
+		<debit/>
+		<timestamp>2018-05-20 22:47:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>548278243</transactionId>
+		<accountId>72</accountId>
+		<credit>172242.31</credit>
+		<debit/>
+		<timestamp>2018-05-03 10:55:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>909887674</transactionId>
+		<accountId>841</accountId>
+		<credit/>
+		<debit>-176</debit>
+		<timestamp>2018-05-28 17:37:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>124731355</transactionId>
+		<accountId>236</accountId>
+		<credit/>
+		<debit>-1314</debit>
+		<timestamp>2018-05-11 06:37:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>292037962</transactionId>
+		<accountId>334</accountId>
+		<credit>237708.86</credit>
+		<debit/>
+		<timestamp>2018-05-01 01:33:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>827208734</transactionId>
+		<accountId>842</accountId>
+		<credit/>
+		<debit>-4738</debit>
+		<timestamp>2018-05-29 02:29:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>351297248</transactionId>
+		<accountId>109</accountId>
+		<credit/>
+		<debit>-1226</debit>
+		<timestamp>2018-05-05 03:44:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>114222296</transactionId>
+		<accountId>973</accountId>
+		<credit/>
+		<debit>-4814</debit>
+		<timestamp>2018-05-28 08:40:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>190760894</transactionId>
+		<accountId>99</accountId>
+		<credit/>
+		<debit>-937</debit>
+		<timestamp>2018-05-03 06:41:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>723614991</transactionId>
+		<accountId>865</accountId>
+		<credit/>
+		<debit>-1434</debit>
+		<timestamp>2018-05-16 02:21:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>906392714</transactionId>
+		<accountId>985</accountId>
+		<credit/>
+		<debit>-720</debit>
+		<timestamp>2018-05-29 06:48:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>300829663</transactionId>
+		<accountId>681</accountId>
+		<credit/>
+		<debit>-2763</debit>
+		<timestamp>2018-05-28 08:26:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>695291805</transactionId>
+		<accountId>471</accountId>
+		<credit/>
+		<debit>-4271</debit>
+		<timestamp>2018-05-24 18:50:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>117589608</transactionId>
+		<accountId>622</accountId>
+		<credit/>
+		<debit>-3267</debit>
+		<timestamp>2018-05-10 14:11:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>506890289</transactionId>
+		<accountId>934</accountId>
+		<credit/>
+		<debit>-4929</debit>
+		<timestamp>2018-05-07 22:57:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>693542809</transactionId>
+		<accountId>904</accountId>
+		<credit>233967.67</credit>
+		<debit/>
+		<timestamp>2018-05-16 01:30:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>719035870</transactionId>
+		<accountId>562</accountId>
+		<credit/>
+		<debit>-2246</debit>
+		<timestamp>2018-05-13 18:31:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>215457800</transactionId>
+		<accountId>36</accountId>
+		<credit>185389.17</credit>
+		<debit/>
+		<timestamp>2018-05-21 00:54:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>605360554</transactionId>
+		<accountId>298</accountId>
+		<credit/>
+		<debit>-4601</debit>
+		<timestamp>2018-05-12 11:28:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>981884224</transactionId>
+		<accountId>663</accountId>
+		<credit/>
+		<debit>-2163</debit>
+		<timestamp>2018-05-05 05:35:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>226362165</transactionId>
+		<accountId>851</accountId>
+		<credit/>
+		<debit>-647</debit>
+		<timestamp>2018-05-23 04:22:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>523757668</transactionId>
+		<accountId>385</accountId>
+		<credit/>
+		<debit>-4811</debit>
+		<timestamp>2018-05-24 17:55:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>237786536</transactionId>
+		<accountId>777</accountId>
+		<credit/>
+		<debit>-1630</debit>
+		<timestamp>2018-05-12 23:22:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>572874116</transactionId>
+		<accountId>308</accountId>
+		<credit/>
+		<debit>-344</debit>
+		<timestamp>2018-05-22 02:58:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>521690356</transactionId>
+		<accountId>453</accountId>
+		<credit/>
+		<debit>-3943</debit>
+		<timestamp>2018-05-18 14:51:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>507072815</transactionId>
+		<accountId>581</accountId>
+		<credit/>
+		<debit>-2294</debit>
+		<timestamp>2018-05-28 11:17:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>194967944</transactionId>
+		<accountId>75</accountId>
+		<credit/>
+		<debit>-4834</debit>
+		<timestamp>2018-05-24 19:32:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>568707319</transactionId>
+		<accountId>920</accountId>
+		<credit/>
+		<debit>-3521</debit>
+		<timestamp>2018-05-12 06:56:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>214578554</transactionId>
+		<accountId>691</accountId>
+		<credit/>
+		<debit>-3842</debit>
+		<timestamp>2018-05-24 02:56:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>918709437</transactionId>
+		<accountId>461</accountId>
+		<credit/>
+		<debit>-310</debit>
+		<timestamp>2018-05-24 10:27:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>619346086</transactionId>
+		<accountId>707</accountId>
+		<credit/>
+		<debit>-3618</debit>
+		<timestamp>2018-05-06 06:39:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>536626539</transactionId>
+		<accountId>959</accountId>
+		<credit>117032.94</credit>
+		<debit/>
+		<timestamp>2018-05-26 13:29:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>169393456</transactionId>
+		<accountId>941</accountId>
+		<credit>160886.09</credit>
+		<debit/>
+		<timestamp>2018-05-26 12:26:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>736659959</transactionId>
+		<accountId>277</accountId>
+		<credit/>
+		<debit>-1401</debit>
+		<timestamp>2018-05-29 11:00:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>625276930</transactionId>
+		<accountId>269</accountId>
+		<credit/>
+		<debit>-762</debit>
+		<timestamp>2018-05-22 15:41:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>888241598</transactionId>
+		<accountId>810</accountId>
+		<credit>160923.69</credit>
+		<debit/>
+		<timestamp>2018-05-11 05:02:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>895089728</transactionId>
+		<accountId>508</accountId>
+		<credit/>
+		<debit>-3893</debit>
+		<timestamp>2018-05-04 02:37:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>371347005</transactionId>
+		<accountId>117</accountId>
+		<credit/>
+		<debit>-2513</debit>
+		<timestamp>2018-05-24 13:34:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>796669586</transactionId>
+		<accountId>50</accountId>
+		<credit/>
+		<debit>-49</debit>
+		<timestamp>2018-05-09 00:56:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>881387720</transactionId>
+		<accountId>910</accountId>
+		<credit/>
+		<debit>-4025</debit>
+		<timestamp>2018-05-22 01:26:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>393131733</transactionId>
+		<accountId>629</accountId>
+		<credit/>
+		<debit>-113</debit>
+		<timestamp>2018-05-15 03:53:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>113831903</transactionId>
+		<accountId>464</accountId>
+		<credit>182501.04</credit>
+		<debit/>
+		<timestamp>2018-05-10 07:05:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>762209185</transactionId>
+		<accountId>804</accountId>
+		<credit/>
+		<debit>-1210</debit>
+		<timestamp>2018-05-07 08:07:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>651806973</transactionId>
+		<accountId>697</accountId>
+		<credit>203896.77</credit>
+		<debit/>
+		<timestamp>2018-05-16 19:28:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>572843249</transactionId>
+		<accountId>16</accountId>
+		<credit/>
+		<debit>-601</debit>
+		<timestamp>2018-05-17 02:15:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>596284194</transactionId>
+		<accountId>996</accountId>
+		<credit/>
+		<debit>-1457</debit>
+		<timestamp>2018-05-19 11:01:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>310722791</transactionId>
+		<accountId>890</accountId>
+		<credit/>
+		<debit>-2752</debit>
+		<timestamp>2018-05-28 06:42:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>760351999</transactionId>
+		<accountId>541</accountId>
+		<credit/>
+		<debit>-3440</debit>
+		<timestamp>2018-05-22 14:18:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>482853239</transactionId>
+		<accountId>679</accountId>
+		<credit/>
+		<debit>-822</debit>
+		<timestamp>2018-05-07 06:29:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>922181503</transactionId>
+		<accountId>233</accountId>
+		<credit/>
+		<debit>-3707</debit>
+		<timestamp>2018-05-25 17:13:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>935154541</transactionId>
+		<accountId>369</accountId>
+		<credit>224548.91</credit>
+		<debit/>
+		<timestamp>2018-05-08 11:12:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>800569120</transactionId>
+		<accountId>879</accountId>
+		<credit>34944.96</credit>
+		<debit/>
+		<timestamp>2018-05-08 15:28:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>358065539</transactionId>
+		<accountId>778</accountId>
+		<credit/>
+		<debit>-1534</debit>
+		<timestamp>2018-05-06 14:45:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>813399369</transactionId>
+		<accountId>626</accountId>
+		<credit>163164.46</credit>
+		<debit/>
+		<timestamp>2018-05-16 00:07:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>504137778</transactionId>
+		<accountId>110</accountId>
+		<credit/>
+		<debit>-1942</debit>
+		<timestamp>2018-05-12 02:23:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>706517972</transactionId>
+		<accountId>272</accountId>
+		<credit/>
+		<debit>-500</debit>
+		<timestamp>2018-05-02 06:05:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>253948643</transactionId>
+		<accountId>517</accountId>
+		<credit/>
+		<debit>-213</debit>
+		<timestamp>2018-05-06 02:48:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>454092778</transactionId>
+		<accountId>766</accountId>
+		<credit>128324.01</credit>
+		<debit/>
+		<timestamp>2018-05-11 11:50:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>923473907</transactionId>
+		<accountId>208</accountId>
+		<credit/>
+		<debit>-4747</debit>
+		<timestamp>2018-05-06 18:40:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>708594803</transactionId>
+		<accountId>167</accountId>
+		<credit>176961.07</credit>
+		<debit/>
+		<timestamp>2018-05-22 17:32:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>480859178</transactionId>
+		<accountId>93</accountId>
+		<credit/>
+		<debit>-3086</debit>
+		<timestamp>2018-05-14 15:32:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>615136402</transactionId>
+		<accountId>431</accountId>
+		<credit/>
+		<debit>-856</debit>
+		<timestamp>2018-05-02 23:09:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>469480783</transactionId>
+		<accountId>444</accountId>
+		<credit/>
+		<debit>-3634</debit>
+		<timestamp>2018-05-24 05:20:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>840018971</transactionId>
+		<accountId>101</accountId>
+		<credit>84817.20</credit>
+		<debit/>
+		<timestamp>2018-05-22 20:14:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>672174535</transactionId>
+		<accountId>488</accountId>
+		<credit/>
+		<debit>-4607</debit>
+		<timestamp>2018-05-17 20:24:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>831698590</transactionId>
+		<accountId>709</accountId>
+		<credit/>
+		<debit>-2678</debit>
+		<timestamp>2018-05-24 12:31:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>120924912</transactionId>
+		<accountId>589</accountId>
+		<credit/>
+		<debit>-2415</debit>
+		<timestamp>2018-05-28 02:03:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>108720900</transactionId>
+		<accountId>243</accountId>
+		<credit/>
+		<debit>-2758</debit>
+		<timestamp>2018-05-09 00:48:34</timestamp>
+	</transaction>
+</transactions>
