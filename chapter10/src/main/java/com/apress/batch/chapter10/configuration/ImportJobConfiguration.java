@@ -15,26 +15,38 @@
  */
 package com.apress.batch.chapter10.configuration;
 
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.Map;
 import javax.sql.DataSource;
 
+import com.apress.batch.chapter10.batch.AccountItemProcessor;
 import com.apress.batch.chapter10.batch.CustomerUpdateClassifier;
-import com.apress.batch.chapter10.domain.*;
+import com.apress.batch.chapter10.batch.StatementHeaderCallback;
+import com.apress.batch.chapter10.batch.StatementLineAggregator;
+import com.apress.batch.chapter10.domain.Customer;
+import com.apress.batch.chapter10.domain.CustomerAddressUpdate;
+import com.apress.batch.chapter10.domain.CustomerContactUpdate;
+import com.apress.batch.chapter10.domain.CustomerNameUpdate;
+import com.apress.batch.chapter10.domain.CustomerUpdate;
+import com.apress.batch.chapter10.domain.Statement;
+import com.apress.batch.chapter10.domain.Transaction;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepScope;
+import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.database.JdbcBatchItemWriter;
 import org.springframework.batch.item.database.JdbcCursorItemReader;
 import org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder;
 import org.springframework.batch.item.database.builder.JdbcCursorItemReaderBuilder;
 import org.springframework.batch.item.file.FlatFileItemReader;
+import org.springframework.batch.item.file.FlatFileItemWriter;
+import org.springframework.batch.item.file.MultiResourceItemWriter;
 import org.springframework.batch.item.file.builder.FlatFileItemReaderBuilder;
+import org.springframework.batch.item.file.builder.FlatFileItemWriterBuilder;
+import org.springframework.batch.item.file.builder.MultiResourceItemWriterBuilder;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 import org.springframework.batch.item.file.transform.LineTokenizer;
@@ -47,7 +59,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.Resource;
-import org.springframework.jdbc.core.RowMapper;
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
 import org.springframework.util.StringUtils;
 
@@ -69,6 +80,7 @@ public class ImportJobConfiguration {
 				.start(importCustomerUpdates())
 				.next(importTransactions())
 				.next(applyTransactions())
+				.next(generateStatements(null))
 				.build();
 	}
 
@@ -225,7 +237,7 @@ public class ImportJobConfiguration {
 	public JdbcBatchItemWriter<Transaction> transactionItemWriter(DataSource dataSource) {
 		return new JdbcBatchItemWriterBuilder<Transaction>()
 				.dataSource(dataSource)
-				.sql("INSERT INTO TRANSACTION (TRANSACTION_ID, ACCOUNT_ACCOUNT_ID, CREDIT, DEBIT, TIMESTAMP) VALUES (:transactionId, :accountId, :credit, :debit, :timestamp)")
+				.sql("INSERT INTO TRANSACTION (TRANSACTION_ID, ACCOUNT_ACCOUNT_ID, DESCRIPTION, CREDIT, DEBIT, TIMESTAMP) VALUES (:transactionId, :accountId, :description, :credit, :debit, :timestamp)")
 				.beanMapped()
 				.build();
 	}
@@ -244,17 +256,13 @@ public class ImportJobConfiguration {
 		return new JdbcCursorItemReaderBuilder<Transaction>()
 				.name("applyTransactionReader")
 				.dataSource(dataSource)
-				.sql("select transaction_id, account_account_id, credit, debit, timestamp from transaction order by timestamp")
-				.rowMapper(new RowMapper<Transaction>() {
-					@Override
-					public Transaction mapRow(ResultSet resultSet, int i) throws SQLException {
-						return new Transaction(resultSet.getLong("transaction_id"),
-								resultSet.getLong("account_account_id"),
-								resultSet.getBigDecimal("credit"),
-								resultSet.getBigDecimal("debit"),
-								resultSet.getTimestamp("timestamp"));
-					}
-				}).build();
+				.sql("select transaction_id, account_account_id, description, credit, debit, timestamp from transaction order by timestamp")
+				.rowMapper((resultSet, i) -> new Transaction(resultSet.getLong("transaction_id"),
+						resultSet.getLong("account_account_id"),
+						resultSet.getString("description"),
+						resultSet.getBigDecimal("credit"),
+						resultSet.getBigDecimal("debit"),
+						resultSet.getTimestamp("timestamp"))).build();
 	}
 
 	@Bean
@@ -268,41 +276,61 @@ public class ImportJobConfiguration {
 	}
 
 	@Bean
-	public Step generateStatements(ItemProcessor<Statement, Statement> itemProcessor) {
+	public Step generateStatements(AccountItemProcessor itemProcessor) {
 		return this.stepBuilderFactory.get("generateStatements")
-				.<Statement, Statement>chunk(100)
+				.<Statement, Statement>chunk(1)
 				.reader(statementItemReader(null))
 				.processor(itemProcessor)
-				.writer(statementItemWriter())
+				.writer(statementItemWriter(null))
 				.build();
 	}
 
 	@Bean
 	public JdbcCursorItemReader<Statement> statementItemReader(DataSource dataSource) {
 		return new JdbcCursorItemReaderBuilder<Statement>()
+				.name("statementItemReader")
 				.dataSource(dataSource)
 				.sql("SELECT * FROM CUSTOMER")
-				.rowMapper(new RowMapper<Statement>() {
-					@Override
-					public Statement mapRow(ResultSet resultSet, int i) throws SQLException {
-						Customer customer = new Customer(resultSet.getLong("customer_id"),
-								resultSet.getString("first_name"),
-								resultSet.getString("middle_name"),
-								resultSet.getString("last_name"),
-								resultSet.getString("address1"),
-								resultSet.getString("address2"),
-								resultSet.getString("city"),
-								resultSet.getString("state"),
-								resultSet.getString("postal_code"),
-								resultSet.getString("ssn"),
-								resultSet.getString("email_address"),
-								resultSet.getString("home_phone"),
-								resultSet.getString("cell_phone"),
-								resultSet.getString("work_phone"),
-								resultSet.getInt("notification_pref"));
+				.rowMapper((resultSet, i) -> {
+					Customer customer = new Customer(resultSet.getLong("customer_id"),
+							resultSet.getString("first_name"),
+							resultSet.getString("middle_name"),
+							resultSet.getString("last_name"),
+							resultSet.getString("address1"),
+							resultSet.getString("address2"),
+							resultSet.getString("city"),
+							resultSet.getString("state"),
+							resultSet.getString("postal_code"),
+							resultSet.getString("ssn"),
+							resultSet.getString("email_address"),
+							resultSet.getString("home_phone"),
+							resultSet.getString("cell_phone"),
+							resultSet.getString("work_phone"),
+							resultSet.getInt("notification_pref"));
 
-						return new Statement(customer);
-					}
+					return new Statement(customer);
 				}).build();
+	}
+
+	@Bean
+	@StepScope
+	public MultiResourceItemWriter<Statement> statementItemWriter(@Value("#{jobParameters['outputDirectory']}") Resource outputDir) {
+		return new MultiResourceItemWriterBuilder<Statement>()
+				.name("statementItemWriter")
+				.resource(outputDir)
+				.itemCountLimitPerResource(1)
+				.delegate(individualStatementItemWriter())
+				.build();
+	}
+
+	@Bean
+	public FlatFileItemWriter<Statement> individualStatementItemWriter() {
+		FlatFileItemWriter<Statement> itemWriter = new FlatFileItemWriter<>();
+
+		itemWriter.setName("individualStatementItemWriter");
+		itemWriter.setHeaderCallback(new StatementHeaderCallback());
+		itemWriter.setLineAggregator(new StatementLineAggregator());
+
+ 		return itemWriter;
 	}
 }

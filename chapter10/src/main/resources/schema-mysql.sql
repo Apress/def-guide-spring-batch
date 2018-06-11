@@ -1,5 +1,5 @@
 CREATE TABLE customer  (
-  customer_id BIGINT IDENTITY NOT NULL PRIMARY KEY ,
+  customer_id BIGINT AUTO_INCREMENT NOT NULL PRIMARY KEY ,
   first_name VARCHAR(45) NOT NULL ,
   middle_name VARCHAR(45),
   last_name VARCHAR(45) NOT NULL,
@@ -17,13 +17,13 @@ CREATE TABLE customer  (
 ) ;
 
 CREATE TABLE account  (
-  account_id BIGINT IDENTITY NOT NULL PRIMARY KEY ,
+  account_id BIGINT AUTO_INCREMENT NOT NULL PRIMARY KEY ,
   balance FLOAT NOT NULL ,
   last_statement_date TIMESTAMP NOT NULL
 ) ;
 
 CREATE TABLE transaction  (
-  transaction_id BIGINT IDENTITY NOT NULL PRIMARY KEY ,
+  transaction_id BIGINT AUTO_INCREMENT NOT NULL PRIMARY KEY ,
   account_account_id BIGINT NOT NULL ,
   description VARCHAR(255) NOT NULL,
   credit FLOAT,
