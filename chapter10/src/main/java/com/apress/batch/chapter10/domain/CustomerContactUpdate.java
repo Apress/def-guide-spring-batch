@@ -15,6 +15,8 @@
  */
 package com.apress.batch.chapter10.domain;
 
+import org.springframework.util.StringUtils;
+
 /**
  * @author Michael Minella
  */
@@ -32,10 +34,10 @@ public class CustomerContactUpdate extends CustomerUpdate {
 
 	public CustomerContactUpdate(long customerId, String emailAddress, String homePhone, String cellPhone, String workPhone, Integer notificationPrefernces) {
 		super(customerId);
-		this.emailAddress = emailAddress;
-		this.homePhone = homePhone;
-		this.cellPhone = cellPhone;
-		this.workPhone = workPhone;
+		this.emailAddress = StringUtils.hasText(emailAddress) ? emailAddress : null;
+		this.homePhone = StringUtils.hasText(homePhone) ? homePhone : null;
+		this.cellPhone = StringUtils.hasText(cellPhone) ? cellPhone : null;
+		this.workPhone = StringUtils.hasText(workPhone) ? workPhone : null;
 		this.notificationPreferences = notificationPrefernces;
 	}
 

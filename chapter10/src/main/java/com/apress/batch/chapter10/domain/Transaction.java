@@ -68,6 +68,7 @@ public class Transaction {
 		this.debit = debit;
 	}
 
+	@XmlJavaTypeAdapter(JaxbDateSerializer.class)
 	public void setTimestamp(Date timestamp) {
 		this.timestamp = timestamp;
 	}
@@ -88,7 +89,6 @@ public class Transaction {
 		return debit;
 	}
 
-	@XmlJavaTypeAdapter(JaxbDateSerializer.class)
 	public Date getTimestamp() {
 		return timestamp;
 	}

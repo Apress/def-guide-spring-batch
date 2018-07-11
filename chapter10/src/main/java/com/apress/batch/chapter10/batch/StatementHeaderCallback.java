@@ -26,9 +26,9 @@ import org.springframework.batch.item.file.FlatFileHeaderCallback;
 public class StatementHeaderCallback implements FlatFileHeaderCallback {
 
 	public void writeHeader(Writer writer) throws IOException {
-		writer.write("                                                                                                 Customer Service Number\n");
-		writer.write("                                                                                                          (800) 867-5309\n");
-		writer.write("                                                                                                          Available 24/7\n");
+		writer.write(String.format("%120s\n", "Customer Service Number"));
+		writer.write(String.format("%120s\n", "(800) 867-5309"));
+		writer.write(String.format("%120s\n", "Available 24/7"));
 		writer.write("\n");
 	}
 

@@ -39,7 +39,6 @@ public class AccountItemProcessor implements ItemProcessor<Statement, Statement>
 	@Override
 	public Statement process(Statement item) throws Exception {
 
-		System.out.println(">> customerId = " + item.getCustomer().getId());
 		item.setAccounts(this.jdbcTemplate.query("select a.account_id," +
 				"       a.balance," +
 				"       a.last_statement_date," +
@@ -52,8 +51,13 @@ public class AccountItemProcessor implements ItemProcessor<Statement, Statement>
 				"    transaction t on a.account_id = t.account_account_id " +
 //				"from account a left join " +  //MYSQL
 //				"    transaction t on a.account_id = t.account_account_id " +
-				"where a.account_id in (select account_account_id from customer_account where customer_customer_id = ?) " +
-				"order by t.timestamp", new Object[] {item.getCustomer().getId()}, new AccountResultSetExtractor()));
+				"where a.account_id in " +
+				"	(select account_account_id " +
+				"	from customer_account " +
+				"	where customer_customer_id = ?) " +
+				"order by t.timestamp",
+				new Object[] {item.getCustomer().getId()},
+					new AccountResultSetExtractor()));
 
 		return item;
 	}
