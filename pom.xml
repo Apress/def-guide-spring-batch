@@ -38,6 +38,7 @@
     </prerequisites>
 
     <modules>
+        <module>Chapter02</module>
         <module>Chapter9</module>
         <module>chapter10</module>
     </modules>
