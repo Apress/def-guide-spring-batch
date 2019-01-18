@@ -38,6 +38,7 @@ import org.springframework.batch.core.configuration.annotation.EnableBatchProces
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepScope;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.item.database.JdbcBatchItemWriter;
 import org.springframework.batch.item.database.JdbcCursorItemReader;
 import org.springframework.batch.item.database.builder.JdbcBatchItemWriterBuilder;
@@ -81,6 +82,7 @@ public class ImportJobConfiguration {
 	@Bean
 	public Job job() throws Exception {
 		return this.jobBuilderFactory.get("importJob")
+				.incrementer(new RunIdIncrementer())
 				.start(importCustomerUpdates())
 				.next(importTransactions())
 				.next(applyTransactions())
