@@ -1,0 +1,39 @@
+<customers>
+	<customer>
+		<firstName>Laura</firstName>
+		<middleInitial>O</middleInitial>
+		<lastName>Minella</lastName>
+		<address>2039 Wall Street</address>
+		<city>Omaha</city>
+		<state>IL</state>
+		<zipCode>35446</zipCode>
+		<transactions>
+			<transaction>
+				<accountNumber>829433</accountNumber>
+				<transactionDate>2010-10-14 05:49:58</transactionDate>
+				<amount>26.08</amount>
+			</transaction>
+		</transactions>
+	</customer>
+	<customer>
+		<firstName>Michael</firstName>
+		<middleInitial>T</middleInitial>
+		<lastName>Buffett</lastName>
+		<address>8192 Wall Street</address>
+		<city>Omaha</city>
+		<state>NE</state>
+		<zipCode>25372</zipCode>
+		<transactions>
+			<transaction>
+				<accountNumber>8179238</accountNumber>
+				<transactionDate>2010-10-27 05:56:59</transactionDate>
+				<amount>-91.76</amount>
+			</transaction>
+			<transaction>
+				<accountNumber>8179238</accountNumber>
+				<transactionDate>2010-10-06 21:51:05</transactionDate>
+				<amount>-25.99</amount>
+			</transaction>
+		</transactions>
+	</customer>
+</customers>

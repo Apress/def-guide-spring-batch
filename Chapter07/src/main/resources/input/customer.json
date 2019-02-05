@@ -1,0 +1,39 @@
+[
+  {
+    "firstName": "Laura",
+    "middleInitial": "O",
+    "lastName": "Minella",
+    "address": "2039 Wall Street",
+    "city": "Omaha",
+    "state": "IL",
+    "zipCode": "35446",
+    "transactions": [
+      {
+        "accountNumber": 829433,
+        "transactionDate": "2010-10-14 05:49:58",
+        "amount": 26.08
+      }
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "middleInitial": "T",
+    "lastName": "Buffett",
+    "address": "8192 Wall Street",
+    "city": "Omaha",
+    "state": "NE",
+    "zipCode": "25372",
+    "transactions": [
+      {
+        "accountNumber": 8179238,
+        "transactionDate": "2010-10-27 05:56:59",
+        "amount": -91.76
+      },
+      {
+        "accountNumber": 8179238,
+        "transactionDate": "2010-10-06 21:51:05",
+        "amount": -25.99
+      }
+    ]
+  }
+]

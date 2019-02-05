@@ -1,0 +1,25 @@
+spring:
+  batch:
+#    job:
+#      enabled: false
+    initialize-schema: always
+  data:
+    mongodb:
+      database: tweets
+    neo4j:
+      username: neo4j
+      password: mminella1
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_batch
+    username: 'root'
+    password: 'p@ssw0rd'
+    initialization-mode: always
+    continue-on-error: true
+    platform: mysql
+  jpa:
+    show-sql: true
+    hibernate:
+      naming:
+        implicit-strategy: "org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl"
+        physical-strategy: "org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl"
