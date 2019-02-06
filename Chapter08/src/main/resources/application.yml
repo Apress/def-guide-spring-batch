@@ -1,0 +1,11 @@
+spring:
+  batch:
+    initialize-schema: always
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_batch
+    username: 'root'
+    password: 'p@ssw0rd'
+    initialization-mode: always
+    continue-on-error: true
+    platform: mysql
