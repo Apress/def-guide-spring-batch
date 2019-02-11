@@ -21,13 +21,13 @@ import org.springframework.context.annotation.Configuration;
  * @author Michael Minella
  */
 @Configuration
-public class XmlFileJob {
+public class Neo4jImportJob {
 //
 //	private JobBuilderFactory jobBuilderFactory;
 //
 //	private StepBuilderFactory stepBuilderFactory;
 //
-//	public XmlFileJob(JobBuilderFactory jobBuilderFactory,
+//	public Neo4jImportJob(JobBuilderFactory jobBuilderFactory,
 //			StepBuilderFactory stepBuilderFactory) {
 //
 //		this.jobBuilderFactory = jobBuilderFactory;
@@ -55,40 +55,25 @@ public class XmlFileJob {
 //	}
 //
 //	@Bean
-//	@StepScope
-//	public StaxEventItemWriter<Customer> xmlCustomerWriter(
-//			@Value("#{jobParameters['outputFile']}") Resource outputFile) {
-//
-//		Map<String, Class> aliases = new HashMap<>();
-//		aliases.put("customer", Customer.class);
-//
-//		XStreamMarshaller marshaller = new XStreamMarshaller();
-//
-//		marshaller.setAliases(aliases);
-//
-//		marshaller.afterPropertiesSet();
-//
-//		return new StaxEventItemWriterBuilder<Customer>()
-//				.name("customerItemWriter")
-//				.resource(outputFile)
-//				.marshaller(marshaller)
-//				.rootTagName("customers")
+//	public Neo4jItemWriter<Customer> neo4jItemWriter(SessionFactory sessionFactory) {
+//		return new Neo4jItemWriterBuilder<Customer>()
+//				.sessionFactory(sessionFactory)
 //				.build();
 //	}
 //
 //	@Bean
-//	public Step xmlFormatStep() throws Exception {
-//		return this.stepBuilderFactory.get("xmlFormatStep")
+//	public Step neo4jFormatStep() throws Exception {
+//		return this.stepBuilderFactory.get("neo4jFormatStep")
 //				.<Customer, Customer>chunk(10)
 //				.reader(customerFileReader(null))
-//				.writer(xmlCustomerWriter(null))
+//				.writer(neo4jItemWriter(null))
 //				.build();
 //	}
 //
 //	@Bean
-//	public Job xmlFormatJob() throws Exception {
-//		return this.jobBuilderFactory.get("xmlFormatJob")
-//				.start(xmlFormatStep())
+//	public Job neo4jFormatJob() throws Exception {
+//		return this.jobBuilderFactory.get("neo4jFormatJob")
+//				.start(neo4jFormatStep())
 //				.build();
 //	}
 }

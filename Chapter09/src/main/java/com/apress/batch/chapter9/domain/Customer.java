@@ -22,16 +22,22 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+
+//import org.springframework.data.annotation.Id;
+
 /**
  * @author Michael Minella
  */
 @Entity
 @Table(name = "customer")
+//@NodeEntity
+//@Region(value = "Customers")
 public class Customer implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
+//	@GeneratedValue(strategy = UuidStrategy.class)
 	private long id;
 	private String firstName;
 	private String middleInitial;

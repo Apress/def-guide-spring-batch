@@ -1,0 +1,44 @@
+spring:
+  batch:
+    initialize-schema: always
+    job:
+      names: emailJob
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_batch
+    username: 'root'
+    password: 'p@ssw0rd'
+    initialization-mode: always
+#    continue-on-error: true
+    platform: mysql
+  jms:
+    template:
+      default-destination: customers
+      receive-timeout: 5000
+  activemq:
+    packages:
+      trust-all: true
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: tdgtsb
+    password: '@ddIson29'
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+  jpa:
+    properties:
+      hibernate:
+        current_session_context_class: org.springframework.orm.hibernate5.SpringSessionContext
+  data:
+    mongodb:
+      database: customerdb
+    neo4j:
+      username: neo4j
+      password: mminella1
+      embedded:
+        enabled: false
+      uri: bolt://localhost:7687

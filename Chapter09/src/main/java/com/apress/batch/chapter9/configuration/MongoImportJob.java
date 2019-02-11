@@ -21,13 +21,13 @@ import org.springframework.context.annotation.Configuration;
  * @author Michael Minella
  */
 @Configuration
-public class XmlFileJob {
+public class MongoImportJob {
 //
 //	private JobBuilderFactory jobBuilderFactory;
 //
 //	private StepBuilderFactory stepBuilderFactory;
 //
-//	public XmlFileJob(JobBuilderFactory jobBuilderFactory,
+//	public MongoImportJob(JobBuilderFactory jobBuilderFactory,
 //			StepBuilderFactory stepBuilderFactory) {
 //
 //		this.jobBuilderFactory = jobBuilderFactory;
@@ -55,40 +55,26 @@ public class XmlFileJob {
 //	}
 //
 //	@Bean
-//	@StepScope
-//	public StaxEventItemWriter<Customer> xmlCustomerWriter(
-//			@Value("#{jobParameters['outputFile']}") Resource outputFile) {
-//
-//		Map<String, Class> aliases = new HashMap<>();
-//		aliases.put("customer", Customer.class);
-//
-//		XStreamMarshaller marshaller = new XStreamMarshaller();
-//
-//		marshaller.setAliases(aliases);
-//
-//		marshaller.afterPropertiesSet();
-//
-//		return new StaxEventItemWriterBuilder<Customer>()
-//				.name("customerItemWriter")
-//				.resource(outputFile)
-//				.marshaller(marshaller)
-//				.rootTagName("customers")
+//	public MongoItemWriter<Customer> mongoItemWriter(MongoOperations mongoTemplate) {
+//		return new MongoItemWriterBuilder<Customer>()
+//				.collection("customers")
+//				.template(mongoTemplate)
 //				.build();
 //	}
 //
 //	@Bean
-//	public Step xmlFormatStep() throws Exception {
-//		return this.stepBuilderFactory.get("xmlFormatStep")
+//	public Step mongoFormatStep() throws Exception {
+//		return this.stepBuilderFactory.get("mongoFormatStep")
 //				.<Customer, Customer>chunk(10)
 //				.reader(customerFileReader(null))
-//				.writer(xmlCustomerWriter(null))
+//				.writer(mongoItemWriter(null))
 //				.build();
 //	}
 //
 //	@Bean
-//	public Job xmlFormatJob() throws Exception {
-//		return this.jobBuilderFactory.get("xmlFormatJob")
-//				.start(xmlFormatStep())
+//	public Job mongoFormatJob() throws Exception {
+//		return this.jobBuilderFactory.get("mongoFormatJob")
+//				.start(mongoFormatStep())
 //				.build();
 //	}
 }

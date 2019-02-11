@@ -39,11 +39,11 @@ public class AccountItemProcessor implements ItemProcessor<Statement, Statement>
 	@Override
 	public Statement process(Statement item) throws Exception {
 
-		String memoryBuster = "memoryBuster";
-
-		for (int i = 0; i < 200; i++) {
-			memoryBuster += memoryBuster;
-		}
+//		String memoryBuster = "memoryBuster";
+//
+//		for (int i = 0; i < 200; i++) {
+//			memoryBuster += memoryBuster;
+//		}
 
 		item.setAccounts(this.jdbcTemplate.query("select a.account_id," +
 				"       a.balance," +
