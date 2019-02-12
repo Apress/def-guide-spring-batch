@@ -52,7 +52,7 @@ public class MultiResourceJob {
 //				.name("multiCustomerFileWriter")
 //				.delegate(delegateItemWriter(null))
 //				.itemCountLimitPerResource(25)
-//				.resource(new FileSystemResource("Chapter9/target/customer"))
+//				.resource(new FileSystemResource("Chapter09/target/customer"))
 //				.resourceSuffixCreator(suffixCreator)
 //				.build();
 //	}

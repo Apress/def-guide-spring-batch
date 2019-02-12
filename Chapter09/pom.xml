@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>chapter9</name>
+	<name>chapter09</name>
 	<description>Source code for Chapter 9 - ItemWriters</description>
 
 	<parent>
