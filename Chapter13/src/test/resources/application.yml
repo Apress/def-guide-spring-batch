@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    initialization-mode: embedded
+  batch:
+    job:
+      enabled: false
